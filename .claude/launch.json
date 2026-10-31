@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "backend",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "english-nemis-backend"],
+      "port": 4000,
+      "url": "http://localhost:4000/health"
+    },
+    {
+      "name": "frontend",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "english-nemis-frontend", "--", "-p", "3003"],
+      "port": 3003,
+      "url": "http://localhost:3003"
+    }
+  ]
+}

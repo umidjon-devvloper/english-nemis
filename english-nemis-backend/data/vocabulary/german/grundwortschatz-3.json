@@ -1,0 +1,3776 @@
+{
+  "bookNumber": 3,
+  "level": "B1",
+  "units": [
+    {
+      "unitNumber": 1,
+      "title": "Persönlichkeit und Charakter",
+      "description": "Shaxs va xarakter.",
+      "words": [
+        {
+          "order": 1,
+          "word": "ehrgeizig",
+          "translationUz": "shuhratparast",
+          "partOfSpeech": "adjective",
+          "example": "Sie ist sehr ehrgeizig.",
+          "exampleUz": "U juda shuhratparast."
+        },
+        {
+          "order": 2,
+          "word": "großzügig",
+          "translationUz": "saxiy",
+          "partOfSpeech": "adjective",
+          "example": "Mein Vater ist großzügig.",
+          "exampleUz": "Dadam saxiy."
+        },
+        {
+          "order": 3,
+          "word": "egoistisch",
+          "translationUz": "egoist",
+          "partOfSpeech": "adjective",
+          "example": "Egoistisches Verhalten.",
+          "exampleUz": "Egoistik xatti-harakat."
+        },
+        {
+          "order": 4,
+          "word": "rücksichtsvoll",
+          "translationUz": "e‘tiborli",
+          "partOfSpeech": "adjective",
+          "example": "Sei rücksichtsvoll mit den Nachbarn.",
+          "exampleUz": "Qo‘shnilarga e‘tiborli bo‘l."
+        },
+        {
+          "order": 5,
+          "word": "Eigenschaft",
+          "article": "die",
+          "plural": "die Eigenschaften",
+          "translationUz": "xususiyat",
+          "partOfSpeech": "noun",
+          "example": "Eine positive Eigenschaft.",
+          "exampleUz": "Ijobiy xususiyat."
+        },
+        {
+          "order": 6,
+          "word": "Charakter",
+          "article": "der",
+          "plural": "die Charaktere",
+          "translationUz": "xarakter",
+          "partOfSpeech": "noun",
+          "example": "Ein starker Charakter.",
+          "exampleUz": "Kuchli xarakter."
+        },
+        {
+          "order": 7,
+          "word": "sich verhalten",
+          "translationUz": "o‘zini tutmoq",
+          "partOfSpeech": "verb",
+          "example": "Wie verhält er sich?",
+          "exampleUz": "U o‘zini qanday tutadi?"
+        },
+        {
+          "order": 8,
+          "word": "bescheiden",
+          "translationUz": "kamtar",
+          "partOfSpeech": "adjective",
+          "example": "Ein bescheidener Mensch.",
+          "exampleUz": "Kamtar inson."
+        },
+        {
+          "order": 9,
+          "word": "mutig",
+          "translationUz": "jasur",
+          "partOfSpeech": "adjective",
+          "example": "Eine mutige Tat.",
+          "exampleUz": "Jasur ish."
+        },
+        {
+          "order": 10,
+          "word": "Schwäche",
+          "article": "die",
+          "plural": "die Schwächen",
+          "translationUz": "zaiflik",
+          "partOfSpeech": "noun",
+          "example": "Jeder hat Schwächen.",
+          "exampleUz": "Har kimda zaiflik bor."
+        },
+        {
+          "order": 11,
+          "word": "beeindrucken",
+          "translationUz": "taassurot qoldirmoq",
+          "partOfSpeech": "verb",
+          "example": "Er beeindruckt mich.",
+          "exampleUz": "U menga taassurot qoldiradi."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«großzügig» nima?",
+          "options": [
+            "saxiy",
+            "qattiq",
+            "qiziquvchan"
+          ],
+          "answerKey": {
+            "correctAnswer": "saxiy"
+          }
+        },
+        {
+          "order": 2,
+          "type": "fill_blank",
+          "section": "Grammar",
+          "question": "Er ____ sich immer höflich.",
+          "options": [
+            "verhält",
+            "verhältst",
+            "verhalten"
+          ],
+          "answerKey": {
+            "correctAnswer": "verhält"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 2,
+      "title": "Arbeit und Beruf (B1)",
+      "description": "Ish va kasb (B1).",
+      "words": [
+        {
+          "order": 1,
+          "word": "Bewerbung",
+          "article": "die",
+          "plural": "die Bewerbungen",
+          "translationUz": "ariza",
+          "partOfSpeech": "noun",
+          "example": "Eine formelle Bewerbung schicken.",
+          "exampleUz": "Rasmiy ariza yuborish."
+        },
+        {
+          "order": 2,
+          "word": "Lebenslauf",
+          "article": "der",
+          "plural": "die Lebensläufe",
+          "translationUz": "rezyume",
+          "partOfSpeech": "noun",
+          "example": "Mein Lebenslauf ist aktuell.",
+          "exampleUz": "Rezyumem yangilangan."
+        },
+        {
+          "order": 3,
+          "word": "Vorstellungsgespräch",
+          "article": "das",
+          "plural": "die Vorstellungsgespräche",
+          "translationUz": "suhbat (ish)",
+          "partOfSpeech": "noun",
+          "example": "Morgen habe ich ein Vorstellungsgespräch.",
+          "exampleUz": "Ertaga ish uchun suhbat."
+        },
+        {
+          "order": 4,
+          "word": "Teilzeit",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "yarim ish kuni",
+          "partOfSpeech": "noun",
+          "example": "Ich arbeite in Teilzeit.",
+          "exampleUz": "Men yarim stavka ishlayman."
+        },
+        {
+          "order": 5,
+          "word": "Vollzeit",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "to‘liq ish kuni",
+          "partOfSpeech": "noun",
+          "example": "Eine Vollzeitstelle.",
+          "exampleUz": "To‘liq stavka."
+        },
+        {
+          "order": 6,
+          "word": "kündigen",
+          "translationUz": "ishdan bo‘shamoq",
+          "partOfSpeech": "verb",
+          "example": "Er hat gekündigt.",
+          "exampleUz": "U ishdan bo‘shadi."
+        },
+        {
+          "order": 7,
+          "word": "Branche",
+          "article": "die",
+          "plural": "die Branchen",
+          "translationUz": "soha",
+          "partOfSpeech": "noun",
+          "example": "Die IT-Branche wächst.",
+          "exampleUz": "IT-soha o‘sadi."
+        },
+        {
+          "order": 8,
+          "word": "Gehaltsverhandlung",
+          "article": "die",
+          "plural": "die Gehaltsverhandlungen",
+          "translationUz": "maosh muzokarasi",
+          "partOfSpeech": "noun",
+          "example": "Eine Gehaltsverhandlung führen.",
+          "exampleUz": "Maosh muzokarasini olib bormoq."
+        },
+        {
+          "order": 9,
+          "word": "befördern",
+          "translationUz": "ko‘tarmoq (lavozim)",
+          "partOfSpeech": "verb",
+          "example": "Sie wurde befördert.",
+          "exampleUz": "U lavozimda ko‘tarildi."
+        },
+        {
+          "order": 10,
+          "word": "qualifiziert",
+          "translationUz": "malakali",
+          "partOfSpeech": "adjective",
+          "example": "Ein qualifizierter Kandidat.",
+          "exampleUz": "Malakali nomzod."
+        },
+        {
+          "order": 11,
+          "word": "Arbeitsvertrag",
+          "article": "der",
+          "plural": "die Arbeitsverträge",
+          "translationUz": "mehnat shartnomasi",
+          "partOfSpeech": "noun",
+          "example": "Einen Arbeitsvertrag unterschreiben.",
+          "exampleUz": "Mehnat shartnomasini imzolamoq."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "Rezyume nemischa qanday?",
+          "options": [
+            "Lebenslauf",
+            "Bewerbung",
+            "Branche"
+          ],
+          "answerKey": {
+            "correctAnswer": "Lebenslauf"
+          }
+        }
+      ],
+      "reading": {
+        "title": "Berufswechsel",
+        "content": "Nach fünf Jahren im Marketing habe ich beschlossen, meinen Beruf zu wechseln. Ich habe meinen Job gekündigt und mich für eine Stelle als Lehrer beworben. Das Vorstellungsgespräch lief gut und ich fange nächsten Monat an.",
+        "translationUz": "Marketing sohasida besh yildan so‘ng kasbimni o‘zgartirishga qaror qildim. Ishimdan bo‘shadim va o‘qituvchi lavozimiga ariza berdim. Suhbat yaxshi o‘tdi va keyingi oyda ish boshlayman.",
+        "questions": [
+          {
+            "question": "Wie lange hat er im Marketing gearbeitet?",
+            "options": [
+              "Zwei Jahre",
+              "Fünf Jahre",
+              "Zehn Jahre"
+            ],
+            "answerKey": {
+              "correctAnswer": "Fünf Jahre"
+            }
+          },
+          {
+            "question": "Was ist sein neuer Beruf?",
+            "options": [
+              "Arzt",
+              "Lehrer",
+              "Ingenieur"
+            ],
+            "answerKey": {
+              "correctAnswer": "Lehrer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "unitNumber": 3,
+      "title": "Gesellschaft",
+      "description": "Jamiyat.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Gesellschaft",
+          "article": "die",
+          "plural": "die Gesellschaften",
+          "translationUz": "jamiyat",
+          "partOfSpeech": "noun",
+          "example": "Die moderne Gesellschaft.",
+          "exampleUz": "Zamonaviy jamiyat."
+        },
+        {
+          "order": 2,
+          "word": "Politik",
+          "article": "die",
+          "plural": "die Politiken",
+          "translationUz": "siyosat",
+          "partOfSpeech": "noun",
+          "example": "Über Politik diskutieren.",
+          "exampleUz": "Siyosat haqida bahs."
+        },
+        {
+          "order": 3,
+          "word": "Regierung",
+          "article": "die",
+          "plural": "die Regierungen",
+          "translationUz": "hukumat",
+          "partOfSpeech": "noun",
+          "example": "Die neue Regierung.",
+          "exampleUz": "Yangi hukumat."
+        },
+        {
+          "order": 4,
+          "word": "Wahl",
+          "article": "die",
+          "plural": "die Wahlen",
+          "translationUz": "saylov",
+          "partOfSpeech": "noun",
+          "example": "Freie Wahlen.",
+          "exampleUz": "Erkin saylovlar."
+        },
+        {
+          "order": 5,
+          "word": "abstimmen",
+          "translationUz": "ovoz bermoq",
+          "partOfSpeech": "verb",
+          "example": "Ich stimme ab.",
+          "exampleUz": "Men ovoz beraman."
+        },
+        {
+          "order": 6,
+          "word": "Recht",
+          "article": "das",
+          "plural": "die Rechte",
+          "translationUz": "huquq",
+          "partOfSpeech": "noun",
+          "example": "Jeder hat das Recht.",
+          "exampleUz": "Har kimning huquqi bor."
+        },
+        {
+          "order": 7,
+          "word": "gerecht",
+          "translationUz": "adolatli",
+          "partOfSpeech": "adjective",
+          "example": "Eine gerechte Entscheidung.",
+          "exampleUz": "Adolatli qaror."
+        },
+        {
+          "order": 8,
+          "word": "Minderheit",
+          "article": "die",
+          "plural": "die Minderheiten",
+          "translationUz": "ozchilik",
+          "partOfSpeech": "noun",
+          "example": "Rechte der Minderheiten.",
+          "exampleUz": "Ozchiliklar huquqlari."
+        },
+        {
+          "order": 9,
+          "word": "protestieren",
+          "translationUz": "norozilik bildirmoq",
+          "partOfSpeech": "verb",
+          "example": "Sie protestieren friedlich.",
+          "exampleUz": "Ular tinch norozilik bildirmoqda."
+        },
+        {
+          "order": 10,
+          "word": "demokratisch",
+          "translationUz": "demokratik",
+          "partOfSpeech": "adjective",
+          "example": "Ein demokratisches Land.",
+          "exampleUz": "Demokratik mamlakat."
+        },
+        {
+          "order": 11,
+          "word": "Bürger",
+          "article": "der",
+          "plural": "die Bürger",
+          "translationUz": "fuqaro",
+          "partOfSpeech": "noun",
+          "example": "Jeder Bürger hat Rechte.",
+          "exampleUz": "Har bir fuqaroning huquqi bor."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Ich habe das ____ zu wählen.",
+          "options": [
+            "Recht",
+            "Problem",
+            "Haus"
+          ],
+          "answerKey": {
+            "correctAnswer": "Recht"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 4,
+      "title": "Wirtschaft",
+      "description": "Iqtisodiyot.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Wirtschaft",
+          "article": "die",
+          "plural": "die Wirtschaften",
+          "translationUz": "iqtisodiyot",
+          "partOfSpeech": "noun",
+          "example": "Die deutsche Wirtschaft.",
+          "exampleUz": "Nemis iqtisodiyoti."
+        },
+        {
+          "order": 2,
+          "word": "Markt",
+          "article": "der",
+          "plural": "die Märkte",
+          "translationUz": "bozor",
+          "partOfSpeech": "noun",
+          "example": "Der freie Markt.",
+          "exampleUz": "Erkin bozor."
+        },
+        {
+          "order": 3,
+          "word": "Firma",
+          "article": "die",
+          "plural": "die Firmen",
+          "translationUz": "firma",
+          "partOfSpeech": "noun",
+          "example": "Eine große Firma.",
+          "exampleUz": "Katta firma."
+        },
+        {
+          "order": 4,
+          "word": "Produkt",
+          "article": "das",
+          "plural": "die Produkte",
+          "translationUz": "mahsulot",
+          "partOfSpeech": "noun",
+          "example": "Ein neues Produkt.",
+          "exampleUz": "Yangi mahsulot."
+        },
+        {
+          "order": 5,
+          "word": "investieren",
+          "translationUz": "sarmoya tikmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich investiere in Aktien.",
+          "exampleUz": "Men aksiyalarga sarmoya tikaman."
+        },
+        {
+          "order": 6,
+          "word": "Steuer",
+          "article": "die",
+          "plural": "die Steuern",
+          "translationUz": "soliq",
+          "partOfSpeech": "noun",
+          "example": "Hohe Steuern.",
+          "exampleUz": "Baland soliqlar."
+        },
+        {
+          "order": 7,
+          "word": "rentabel",
+          "translationUz": "rentabelli",
+          "partOfSpeech": "adjective",
+          "example": "Ein rentables Geschäft.",
+          "exampleUz": "Rentabelli biznes."
+        },
+        {
+          "order": 8,
+          "word": "Inflation",
+          "article": "die",
+          "plural": "die Inflationen",
+          "translationUz": "inflatsiya",
+          "partOfSpeech": "noun",
+          "example": "Die Inflation steigt.",
+          "exampleUz": "Inflatsiya oshyapti."
+        },
+        {
+          "order": 9,
+          "word": "kalkulieren",
+          "translationUz": "hisob-kitob qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Kosten kalkulieren.",
+          "exampleUz": "Xarajatlarni hisoblash."
+        },
+        {
+          "order": 10,
+          "word": "profitabel",
+          "translationUz": "foydali (biznes)",
+          "partOfSpeech": "adjective",
+          "example": "Ein profitables Geschäft.",
+          "exampleUz": "Foydali biznes."
+        },
+        {
+          "order": 11,
+          "word": "Angebot",
+          "article": "das",
+          "plural": "die Angebote",
+          "translationUz": "taklif",
+          "partOfSpeech": "noun",
+          "example": "Ein günstiges Angebot.",
+          "exampleUz": "Yaxshi taklif."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«investieren» nima?",
+          "options": [
+            "sotish",
+            "sarmoya tikmoq",
+            "yashirmoq"
+          ],
+          "answerKey": {
+            "correctAnswer": "sarmoya tikmoq"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 5,
+      "title": "Umwelt und Klima",
+      "description": "Atrof-muhit va iqlim.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Klimawandel",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "iqlim o‘zgarishi",
+          "partOfSpeech": "noun",
+          "example": "Der Klimawandel ist real.",
+          "exampleUz": "Iqlim o‘zgarishi real."
+        },
+        {
+          "order": 2,
+          "word": "Energie",
+          "article": "die",
+          "plural": "die Energien",
+          "translationUz": "energiya",
+          "partOfSpeech": "noun",
+          "example": "Erneuerbare Energie.",
+          "exampleUz": "Qayta tiklanadigan energiya."
+        },
+        {
+          "order": 3,
+          "word": "Umweltschutz",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "atrof-muhit muhofazasi",
+          "partOfSpeech": "noun",
+          "example": "Umweltschutz ist wichtig.",
+          "exampleUz": "Atrof-muhit muhofazasi muhim."
+        },
+        {
+          "order": 4,
+          "word": "schützen",
+          "translationUz": "muhofaza qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Wir müssen die Natur schützen.",
+          "exampleUz": "Biz tabiatni muhofaza qilishimiz kerak."
+        },
+        {
+          "order": 5,
+          "word": "verbrauchen",
+          "translationUz": "iste‘mol qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Weniger Strom verbrauchen.",
+          "exampleUz": "Elektr energiyani kam iste‘mol qilish."
+        },
+        {
+          "order": 6,
+          "word": "Müll",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "chiqindi",
+          "partOfSpeech": "noun",
+          "example": "Müll trennen.",
+          "exampleUz": "Chiqindini ajratish."
+        },
+        {
+          "order": 7,
+          "word": "nachhaltig",
+          "translationUz": "barqaror (eko)",
+          "partOfSpeech": "adjective",
+          "example": "Eine nachhaltige Lösung.",
+          "exampleUz": "Barqaror yechim."
+        },
+        {
+          "order": 8,
+          "word": "Treibhausgas",
+          "article": "das",
+          "plural": "die Treibhausgase",
+          "translationUz": "issiqxona gazi",
+          "partOfSpeech": "noun",
+          "example": "Treibhausgase reduzieren.",
+          "exampleUz": "Issiqxona gazlarini kamaytirish."
+        },
+        {
+          "order": 9,
+          "word": "reduzieren",
+          "translationUz": "kamaytirmoq",
+          "partOfSpeech": "verb",
+          "example": "Den CO2-Ausstoß reduzieren.",
+          "exampleUz": "CO2 chiqarilishini kamaytirmoq."
+        },
+        {
+          "order": 10,
+          "word": "ökologisch",
+          "translationUz": "ekologik",
+          "partOfSpeech": "adjective",
+          "example": "Ökologische Landwirtschaft.",
+          "exampleUz": "Ekologik qishloq xo‘jaligi."
+        },
+        {
+          "order": 11,
+          "word": "Artenvielfalt",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "turlar xilma-xilligi",
+          "partOfSpeech": "noun",
+          "example": "Die Artenvielfalt schützen.",
+          "exampleUz": "Turlar xilma-xilligini himoya qilish."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Wir müssen die Natur ____.",
+          "options": [
+            "schützen",
+            "verbrauchen",
+            "kaufen"
+          ],
+          "answerKey": {
+            "correctAnswer": "schützen"
+          }
+        }
+      ],
+      "reading": {
+        "title": "Klimawandel in Zentralasien",
+        "content": "In Zentralasien merkt man den Klimawandel immer stärker. Die Sommer werden heißer und das Wasser wird knapper. Viele Flüsse werden kleiner, weil die Gletscher schmelzen. Experten warnen, dass sich die Landwirtschaft anpassen muss.",
+        "translationUz": "Markaziy Osiyoda iqlim o‘zgarishi tobora sezilarli bo‘lyapti. Yoz issiqroq va suv kamroq bo‘lmoqda. Muzliklar erib borayotgani uchun ko‘plab daryolar kichrayib ketyapti. Mutaxassislar qishloq xo‘jaligi moslashishi kerakligini ogohlantiradi.",
+        "questions": [
+          {
+            "question": "Was wird in Zentralasien knapper?",
+            "options": [
+              "Wasser",
+              "Luft",
+              "Boden"
+            ],
+            "answerKey": {
+              "correctAnswer": "Wasser"
+            }
+          },
+          {
+            "question": "Warum werden die Flüsse kleiner?",
+            "options": [
+              "Weil es weniger regnet",
+              "Weil die Gletscher schmelzen",
+              "Weil die Städte wachsen"
+            ],
+            "answerKey": {
+              "correctAnswer": "Weil die Gletscher schmelzen"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "unitNumber": 6,
+      "title": "Bildung",
+      "description": "Ta‘lim.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Bildung",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "ta‘lim",
+          "partOfSpeech": "noun",
+          "example": "Bildung ist wichtig.",
+          "exampleUz": "Ta‘lim muhim."
+        },
+        {
+          "order": 2,
+          "word": "Studium",
+          "article": "das",
+          "plural": "die Studien",
+          "translationUz": "universitet o‘qishi",
+          "partOfSpeech": "noun",
+          "example": "Mein Studium dauert vier Jahre.",
+          "exampleUz": "O‘qishim 4 yil davom etadi."
+        },
+        {
+          "order": 3,
+          "word": "Abschluss",
+          "article": "der",
+          "plural": "die Abschlüsse",
+          "translationUz": "bitiruv diplomi",
+          "partOfSpeech": "noun",
+          "example": "Ich mache meinen Abschluss.",
+          "exampleUz": "Men diplomimni olmoqchiman."
+        },
+        {
+          "order": 4,
+          "word": "Stipendium",
+          "article": "das",
+          "plural": "die Stipendien",
+          "translationUz": "stipendiya",
+          "partOfSpeech": "noun",
+          "example": "Ein Stipendium bekommen.",
+          "exampleUz": "Stipendiya olish."
+        },
+        {
+          "order": 5,
+          "word": "sich bewerben",
+          "translationUz": "ariza bermoq",
+          "partOfSpeech": "verb",
+          "example": "Ich bewerbe mich für den Kurs.",
+          "exampleUz": "Men kurs uchun ariza beryapman."
+        },
+        {
+          "order": 6,
+          "word": "Dozent",
+          "article": "der",
+          "plural": "die Dozenten",
+          "translationUz": "dotsent",
+          "partOfSpeech": "noun",
+          "example": "Der Dozent ist streng.",
+          "exampleUz": "Dotsent qattiqqo‘l."
+        },
+        {
+          "order": 7,
+          "word": "Vorlesung",
+          "article": "die",
+          "plural": "die Vorlesungen",
+          "translationUz": "ma‘ruza",
+          "partOfSpeech": "noun",
+          "example": "Die Vorlesung beginnt.",
+          "exampleUz": "Ma‘ruza boshlanadi."
+        },
+        {
+          "order": 8,
+          "word": "Lehrplan",
+          "article": "der",
+          "plural": "die Lehrpläne",
+          "translationUz": "o‘quv rejasi",
+          "partOfSpeech": "noun",
+          "example": "Der neue Lehrplan.",
+          "exampleUz": "Yangi o‘quv rejasi."
+        },
+        {
+          "order": 9,
+          "word": "sich einschreiben",
+          "translationUz": "ro‘yxatdan o‘tmoq (kursga)",
+          "partOfSpeech": "verb",
+          "example": "Ich schreibe mich für den Kurs ein.",
+          "exampleUz": "Men kursga ro‘yxatdan o‘tyapman."
+        },
+        {
+          "order": 10,
+          "word": "praxisorientiert",
+          "translationUz": "amaliyotga yo‘naltirilgan",
+          "partOfSpeech": "adjective",
+          "example": "Ein praxisorientiertes Studium.",
+          "exampleUz": "Amaliyotga yo‘naltirilgan ta'lim."
+        },
+        {
+          "order": 11,
+          "word": "Vortrag",
+          "article": "der",
+          "plural": "die Vorträge",
+          "translationUz": "ma'ruza (ilmiy)",
+          "partOfSpeech": "noun",
+          "example": "Einen Vortrag halten.",
+          "exampleUz": "Ma'ruza qilish."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Stipendium» nima?",
+          "options": [
+            "stipendiya",
+            "diplom",
+            "guvohnoma"
+          ],
+          "answerKey": {
+            "correctAnswer": "stipendiya"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 7,
+      "title": "Kultur und Kunst",
+      "description": "Madaniyat va san‘at.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Kunst",
+          "article": "die",
+          "plural": "die Künste",
+          "translationUz": "san‘at",
+          "partOfSpeech": "noun",
+          "example": "Moderne Kunst.",
+          "exampleUz": "Zamonaviy san‘at."
+        },
+        {
+          "order": 2,
+          "word": "Museum",
+          "article": "das",
+          "plural": "die Museen",
+          "translationUz": "muzey",
+          "partOfSpeech": "noun",
+          "example": "Wir besuchen das Museum.",
+          "exampleUz": "Biz muzeyga boramiz."
+        },
+        {
+          "order": 3,
+          "word": "Künstler",
+          "article": "der",
+          "plural": "die Künstler",
+          "translationUz": "ijodkor",
+          "partOfSpeech": "noun",
+          "example": "Ein berühmter Künstler.",
+          "exampleUz": "Mashhur ijodkor."
+        },
+        {
+          "order": 4,
+          "word": "Konzert",
+          "article": "das",
+          "plural": "die Konzerte",
+          "translationUz": "konsert",
+          "partOfSpeech": "noun",
+          "example": "Ein Konzert im Park.",
+          "exampleUz": "Bog‘dagi konsert."
+        },
+        {
+          "order": 5,
+          "word": "Theater",
+          "article": "das",
+          "plural": "die Theater",
+          "translationUz": "teatr",
+          "partOfSpeech": "noun",
+          "example": "Ins Theater gehen.",
+          "exampleUz": "Teatrga borish."
+        },
+        {
+          "order": 6,
+          "word": "auftreten",
+          "translationUz": "sahnada chiqmoq",
+          "partOfSpeech": "verb",
+          "example": "Die Band tritt heute auf.",
+          "exampleUz": "Guruh bugun sahnada chiqadi."
+        },
+        {
+          "order": 7,
+          "word": "Ausstellung",
+          "article": "die",
+          "plural": "die Ausstellungen",
+          "translationUz": "ko‘rgazma",
+          "partOfSpeech": "noun",
+          "example": "Eine neue Ausstellung.",
+          "exampleUz": "Yangi ko‘rgazma."
+        },
+        {
+          "order": 8,
+          "word": "Oper",
+          "article": "die",
+          "plural": "die Opern",
+          "translationUz": "opera",
+          "partOfSpeech": "noun",
+          "example": "Eine berühmte Oper.",
+          "exampleUz": "Mashhur opera."
+        },
+        {
+          "order": 9,
+          "word": "inspirieren",
+          "translationUz": "ilhomlantirmoq",
+          "partOfSpeech": "verb",
+          "example": "Diese Musik inspiriert mich.",
+          "exampleUz": "Bu musiqa meni ilhomlantiradi."
+        },
+        {
+          "order": 10,
+          "word": "abstrakt",
+          "translationUz": "abstrakt",
+          "partOfSpeech": "adjective",
+          "example": "Ein abstraktes Gemälde.",
+          "exampleUz": "Abstrakt rasm."
+        },
+        {
+          "order": 11,
+          "word": "Galerie",
+          "article": "die",
+          "plural": "die Galerien",
+          "translationUz": "galereya",
+          "partOfSpeech": "noun",
+          "example": "Eine moderne Galerie.",
+          "exampleUz": "Zamonaviy galereya."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Ich besuche eine ____ im Museum.",
+          "options": [
+            "Ausstellung",
+            "Konzert",
+            "Kunst"
+          ],
+          "answerKey": {
+            "correctAnswer": "Ausstellung"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 8,
+      "title": "Medien und Information",
+      "description": "Media va axborot.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Nachricht",
+          "article": "die",
+          "plural": "die Nachrichten",
+          "translationUz": "xabar",
+          "partOfSpeech": "noun",
+          "example": "Die neueste Nachricht.",
+          "exampleUz": "Eng yangi xabar."
+        },
+        {
+          "order": 2,
+          "word": "Zeitschrift",
+          "article": "die",
+          "plural": "die Zeitschriften",
+          "translationUz": "jurnal",
+          "partOfSpeech": "noun",
+          "example": "Eine wöchentliche Zeitschrift.",
+          "exampleUz": "Haftalik jurnal."
+        },
+        {
+          "order": 3,
+          "word": "Rundfunk",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "radio-eshittirish",
+          "partOfSpeech": "noun",
+          "example": "Der Rundfunk sendet live.",
+          "exampleUz": "Radio jonli efirda eshittiradi."
+        },
+        {
+          "order": 4,
+          "word": "informieren",
+          "translationUz": "ma‘lumot bermoq",
+          "partOfSpeech": "verb",
+          "example": "Ich informiere mich täglich.",
+          "exampleUz": "Men har kuni ma‘lumot olaman."
+        },
+        {
+          "order": 5,
+          "word": "objektiv",
+          "translationUz": "ob'ektiv",
+          "partOfSpeech": "adjective",
+          "example": "Objektive Berichterstattung.",
+          "exampleUz": "Ob'ektiv xabar."
+        },
+        {
+          "order": 6,
+          "word": "manipuliert",
+          "translationUz": "manipulyatsiya qilingan",
+          "partOfSpeech": "adjective",
+          "example": "Manipulierte Bilder.",
+          "exampleUz": "Manipulyatsiya qilingan tasvirlar."
+        },
+        {
+          "order": 7,
+          "word": "Quelle",
+          "article": "die",
+          "plural": "die Quellen",
+          "translationUz": "manba",
+          "partOfSpeech": "noun",
+          "example": "Eine zuverlässige Quelle.",
+          "exampleUz": "Ishonchli manba."
+        },
+        {
+          "order": 8,
+          "word": "Journalist",
+          "article": "der",
+          "plural": "die Journalisten",
+          "translationUz": "jurnalist",
+          "partOfSpeech": "noun",
+          "example": "Ein freier Journalist.",
+          "exampleUz": "Erkin jurnalist."
+        },
+        {
+          "order": 9,
+          "word": "recherchieren",
+          "translationUz": "tadqiq qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Für einen Artikel recherchieren.",
+          "exampleUz": "Maqola uchun tadqiq qilish."
+        },
+        {
+          "order": 10,
+          "word": "neutral",
+          "translationUz": "neytral",
+          "partOfSpeech": "adjective",
+          "example": "Eine neutrale Berichterstattung.",
+          "exampleUz": "Neytral xabar."
+        },
+        {
+          "order": 11,
+          "word": "Statistik",
+          "article": "die",
+          "plural": "die Statistiken",
+          "translationUz": "statistika",
+          "partOfSpeech": "noun",
+          "example": "Eine aktuelle Statistik.",
+          "exampleUz": "Dolzarb statistika."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Quelle» nima?",
+          "options": [
+            "manba",
+            "oson",
+            "qiyin"
+          ],
+          "answerKey": {
+            "correctAnswer": "manba"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 9,
+      "title": "Reisen - Erfahrungen",
+      "description": "Sayohat tajribasi.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Erlebnis",
+          "article": "das",
+          "plural": "die Erlebnisse",
+          "translationUz": "sarguzasht",
+          "partOfSpeech": "noun",
+          "example": "Ein unvergessliches Erlebnis.",
+          "exampleUz": "Unutilmas sarguzasht."
+        },
+        {
+          "order": 2,
+          "word": "Kultur",
+          "article": "die",
+          "plural": "die Kulturen",
+          "translationUz": "madaniyat",
+          "partOfSpeech": "noun",
+          "example": "Fremde Kulturen entdecken.",
+          "exampleUz": "Begona madaniyatlarni kashf qilish."
+        },
+        {
+          "order": 3,
+          "word": "entdecken",
+          "translationUz": "kashf qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich entdecke neue Länder.",
+          "exampleUz": "Men yangi mamlakatlarni kashf qilaman."
+        },
+        {
+          "order": 4,
+          "word": "erleben",
+          "translationUz": "boshdan kechirmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich habe viel erlebt.",
+          "exampleUz": "Men ko‘p narsani boshdan kechirdim."
+        },
+        {
+          "order": 5,
+          "word": "Flughafen",
+          "article": "der",
+          "plural": "die Flughäfen",
+          "translationUz": "aeroport",
+          "partOfSpeech": "noun",
+          "example": "Der Flughafen ist voll.",
+          "exampleUz": "Aeroport to‘la."
+        },
+        {
+          "order": 6,
+          "word": "Visum",
+          "article": "das",
+          "plural": "die Visa",
+          "translationUz": "viza",
+          "partOfSpeech": "noun",
+          "example": "Ich brauche ein Visum.",
+          "exampleUz": "Menga viza kerak."
+        },
+        {
+          "order": 7,
+          "word": "exotisch",
+          "translationUz": "ekzotik",
+          "partOfSpeech": "adjective",
+          "example": "Ein exotisches Essen.",
+          "exampleUz": "Ekzotik taom."
+        },
+        {
+          "order": 8,
+          "word": "Rundreise",
+          "article": "die",
+          "plural": "die Rundreisen",
+          "translationUz": "aylanma sayohat",
+          "partOfSpeech": "noun",
+          "example": "Eine Rundreise durch Europa.",
+          "exampleUz": "Yevropa bo‘ylab aylanma sayohat."
+        },
+        {
+          "order": 9,
+          "word": "besichtigen",
+          "translationUz": "ko‘rib chiqmoq",
+          "partOfSpeech": "verb",
+          "example": "Wir besichtigen das Schloss.",
+          "exampleUz": "Biz qasrni ko‘rib chiqamiz."
+        },
+        {
+          "order": 10,
+          "word": "unvergesslich",
+          "translationUz": "unutilmas",
+          "partOfSpeech": "adjective",
+          "example": "Ein unvergessliches Erlebnis.",
+          "exampleUz": "Unutilmas tajriba."
+        },
+        {
+          "order": 11,
+          "word": "Reiseführer",
+          "article": "der",
+          "plural": "die Reiseführer",
+          "translationUz": "sayohat qo‘llanmasi",
+          "partOfSpeech": "noun",
+          "example": "Ein nützlicher Reiseführer.",
+          "exampleUz": "Foydali qo‘llanma."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Grammar",
+          "question": "Ich habe viel in Deutschland ____.",
+          "options": [
+            "erlebt",
+            "entdeckt",
+            "gelebt"
+          ],
+          "answerKey": {
+            "correctAnswer": "erlebt"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 10,
+      "title": "Gefühle und Emotionen (B1)",
+      "description": "Hissiyot va emotsiyalar (B1).",
+      "words": [
+        {
+          "order": 1,
+          "word": "Gefühl",
+          "article": "das",
+          "plural": "die Gefühle",
+          "translationUz": "his",
+          "partOfSpeech": "noun",
+          "example": "Ein starkes Gefühl.",
+          "exampleUz": "Kuchli his."
+        },
+        {
+          "order": 2,
+          "word": "Emotion",
+          "article": "die",
+          "plural": "die Emotionen",
+          "translationUz": "emotsiya",
+          "partOfSpeech": "noun",
+          "example": "Positive Emotionen.",
+          "exampleUz": "Ijobiy emotsiyalar."
+        },
+        {
+          "order": 3,
+          "word": "gelassen",
+          "translationUz": "xotirjam",
+          "partOfSpeech": "adjective",
+          "example": "Bleib gelassen!",
+          "exampleUz": "Xotirjam bo‘l!"
+        },
+        {
+          "order": 4,
+          "word": "besorgt",
+          "translationUz": "xavotirli",
+          "partOfSpeech": "adjective",
+          "example": "Ich bin besorgt um dich.",
+          "exampleUz": "Men sening haqingda xavotirdaman."
+        },
+        {
+          "order": 5,
+          "word": "stolz",
+          "translationUz": "faxrlanaman",
+          "partOfSpeech": "adjective",
+          "example": "Ich bin stolz auf dich.",
+          "exampleUz": "Men sendan faxrlanaman."
+        },
+        {
+          "order": 6,
+          "word": "enttäuscht",
+          "translationUz": "umidsizlangan",
+          "partOfSpeech": "adjective",
+          "example": "Ich bin enttäuscht.",
+          "exampleUz": "Men hafsalam pir bo‘ldi."
+        },
+        {
+          "order": 7,
+          "word": "ausdrücken",
+          "translationUz": "ifodalamoq",
+          "partOfSpeech": "verb",
+          "example": "Gefühle ausdrücken.",
+          "exampleUz": "Hissiyotlarni ifodalash."
+        },
+        {
+          "order": 8,
+          "word": "eifersüchtig",
+          "translationUz": "rashkli",
+          "partOfSpeech": "adjective",
+          "example": "Eifersüchtig sein.",
+          "exampleUz": "Rashk qilmoq."
+        },
+        {
+          "order": 9,
+          "word": "dankbar",
+          "translationUz": "minnatdor",
+          "partOfSpeech": "adjective",
+          "example": "Ich bin dir dankbar.",
+          "exampleUz": "Men sendan minnatdorman."
+        },
+        {
+          "order": 10,
+          "word": "verzweifeln",
+          "translationUz": "umidsizlanmoq",
+          "partOfSpeech": "verb",
+          "example": "Verzweifle nicht!",
+          "exampleUz": "Umidsizlanma!"
+        },
+        {
+          "order": 11,
+          "word": "Hoffnung",
+          "article": "die",
+          "plural": "die Hoffnungen",
+          "translationUz": "umid",
+          "partOfSpeech": "noun",
+          "example": "Eine neue Hoffnung.",
+          "exampleUz": "Yangi umid."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«stolz» qanday tarjima qilinadi?",
+          "options": [
+            "xafa",
+            "faxrlanaman",
+            "achchiq"
+          ],
+          "answerKey": {
+            "correctAnswer": "faxrlanaman"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 11,
+      "title": "Gesundheit und Wellness",
+      "description": "Sog‘liq va salomatlik.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Ernährung",
+          "article": "die",
+          "plural": "die Ernährungen",
+          "translationUz": "ovqatlanish",
+          "partOfSpeech": "noun",
+          "example": "Gesunde Ernährung.",
+          "exampleUz": "Sog‘lom ovqatlanish."
+        },
+        {
+          "order": 2,
+          "word": "vegetarisch",
+          "translationUz": "vegetarian",
+          "partOfSpeech": "adjective",
+          "example": "Eine vegetarische Mahlzeit.",
+          "exampleUz": "Vegetarian taom."
+        },
+        {
+          "order": 3,
+          "word": "Vitamin",
+          "article": "das",
+          "plural": "die Vitamine",
+          "translationUz": "vitamin",
+          "partOfSpeech": "noun",
+          "example": "Vitamine helfen.",
+          "exampleUz": "Vitaminlar yordam beradi."
+        },
+        {
+          "order": 4,
+          "word": "sich bewegen",
+          "translationUz": "harakat qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Du musst dich mehr bewegen.",
+          "exampleUz": "Sen ko‘proq harakat qilishing kerak."
+        },
+        {
+          "order": 5,
+          "word": "Stress",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "stress",
+          "partOfSpeech": "noun",
+          "example": "Weniger Stress haben.",
+          "exampleUz": "Kamroq stress tutish."
+        },
+        {
+          "order": 6,
+          "word": "entspannen",
+          "translationUz": "dam olmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich entspanne mich am Wochenende.",
+          "exampleUz": "Dam olish kunlari dam olaman."
+        },
+        {
+          "order": 7,
+          "word": "ausgewogen",
+          "translationUz": "muvozanatli",
+          "partOfSpeech": "adjective",
+          "example": "Eine ausgewogene Mahlzeit.",
+          "exampleUz": "Muvozanatli taom."
+        },
+        {
+          "order": 8,
+          "word": "Meditation",
+          "article": "die",
+          "plural": "die Meditationen",
+          "translationUz": "meditatsiya",
+          "partOfSpeech": "noun",
+          "example": "Meditation hilft gegen Stress.",
+          "exampleUz": "Meditatsiya stressga qarshi yordam beradi."
+        },
+        {
+          "order": 9,
+          "word": "abnehmen",
+          "translationUz": "vazn yo‘qotmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich möchte abnehmen.",
+          "exampleUz": "Men vazn yo‘qotmoqchiman."
+        },
+        {
+          "order": 10,
+          "word": "sportlich",
+          "translationUz": "sportga oid",
+          "partOfSpeech": "adjective",
+          "example": "Ein sportlicher Lebensstil.",
+          "exampleUz": "Sportga oid turmush tarzi."
+        },
+        {
+          "order": 11,
+          "word": "Schlaf",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "uyqu",
+          "partOfSpeech": "noun",
+          "example": "Guter Schlaf ist wichtig.",
+          "exampleUz": "Yaxshi uyqu muhim."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Ich ____ mich am Abend.",
+          "options": [
+            "entspanne",
+            "arbeite",
+            "lerne"
+          ],
+          "answerKey": {
+            "correctAnswer": "entspanne"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 12,
+      "title": "Technologie und Zukunft",
+      "description": "Texnologiya va kelajak.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Technologie",
+          "article": "die",
+          "plural": "die Technologien",
+          "translationUz": "texnologiya",
+          "partOfSpeech": "noun",
+          "example": "Neue Technologie.",
+          "exampleUz": "Yangi texnologiya."
+        },
+        {
+          "order": 2,
+          "word": "Künstliche Intelligenz",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "sun'iy intellekt",
+          "partOfSpeech": "noun",
+          "example": "KI verändert die Welt.",
+          "exampleUz": "SI dunyoni o‘zgartiradi."
+        },
+        {
+          "order": 3,
+          "word": "Roboter",
+          "article": "der",
+          "plural": "die Roboter",
+          "translationUz": "robot",
+          "partOfSpeech": "noun",
+          "example": "Ein industrieller Roboter.",
+          "exampleUz": "Sanoat roboti."
+        },
+        {
+          "order": 4,
+          "word": "entwickeln",
+          "translationUz": "rivojlantirmoq",
+          "partOfSpeech": "verb",
+          "example": "Wir entwickeln eine App.",
+          "exampleUz": "Biz ilovani rivojlantiryapmiz."
+        },
+        {
+          "order": 5,
+          "word": "Zukunft",
+          "article": "die",
+          "plural": "die Zukünfte",
+          "translationUz": "kelajak",
+          "partOfSpeech": "noun",
+          "example": "Die Zukunft ist digital.",
+          "exampleUz": "Kelajak raqamli."
+        },
+        {
+          "order": 6,
+          "word": "digital",
+          "translationUz": "raqamli",
+          "partOfSpeech": "adjective",
+          "example": "Ein digitales Zeitalter.",
+          "exampleUz": "Raqamli davr."
+        },
+        {
+          "order": 7,
+          "word": "ersetzen",
+          "translationUz": "almashtirmoq",
+          "partOfSpeech": "verb",
+          "example": "Roboter ersetzen Menschen.",
+          "exampleUz": "Robotlar odamlarni almashtiradi."
+        },
+        {
+          "order": 8,
+          "word": "Algorithmus",
+          "article": "der",
+          "plural": "die Algorithmen",
+          "translationUz": "algoritm",
+          "partOfSpeech": "noun",
+          "example": "Ein komplexer Algorithmus.",
+          "exampleUz": "Murakkab algoritm."
+        },
+        {
+          "order": 9,
+          "word": "automatisieren",
+          "translationUz": "avtomatlashtirmoq",
+          "partOfSpeech": "verb",
+          "example": "Prozesse automatisieren.",
+          "exampleUz": "Jarayonlarni avtomatlashtirmoq."
+        },
+        {
+          "order": 10,
+          "word": "innovativ",
+          "translationUz": "innovatsion",
+          "partOfSpeech": "adjective",
+          "example": "Eine innovative Lösung.",
+          "exampleUz": "Innovatsion yechim."
+        },
+        {
+          "order": 11,
+          "word": "Erfindung",
+          "article": "die",
+          "plural": "die Erfindungen",
+          "translationUz": "ixtiro",
+          "partOfSpeech": "noun",
+          "example": "Eine wichtige Erfindung.",
+          "exampleUz": "Muhim ixtiro."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«entwickeln» nima?",
+          "options": [
+            "rivojlantirmoq",
+            "to‘xtatmoq",
+            "sotish"
+          ],
+          "answerKey": {
+            "correctAnswer": "rivojlantirmoq"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 13,
+      "title": "Konsum und Kaufverhalten",
+      "description": "Iste'mol va xarid odatlari.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Konsum",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "iste'mol",
+          "partOfSpeech": "noun",
+          "example": "Übermäßiger Konsum.",
+          "exampleUz": "Ortiqcha iste'mol."
+        },
+        {
+          "order": 2,
+          "word": "kaufen",
+          "translationUz": "sotib olmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich kaufe online.",
+          "exampleUz": "Men onlayn sotib olaman."
+        },
+        {
+          "order": 3,
+          "word": "vergleichen",
+          "translationUz": "taqqoslamoq",
+          "partOfSpeech": "verb",
+          "example": "Preise vergleichen.",
+          "exampleUz": "Narxlarni taqqoslamoq."
+        },
+        {
+          "order": 4,
+          "word": "Werbung",
+          "article": "die",
+          "plural": "die Werbungen",
+          "translationUz": "reklama",
+          "partOfSpeech": "noun",
+          "example": "Die Werbung ist überall.",
+          "exampleUz": "Reklama hamma joyda."
+        },
+        {
+          "order": 5,
+          "word": "günstig",
+          "translationUz": "arzon",
+          "partOfSpeech": "adjective",
+          "example": "Ein günstiges Angebot.",
+          "exampleUz": "Arzon taklif."
+        },
+        {
+          "order": 6,
+          "word": "Rabatt",
+          "article": "der",
+          "plural": "die Rabatte",
+          "translationUz": "chegirma",
+          "partOfSpeech": "noun",
+          "example": "Mit Rabatt kaufen.",
+          "exampleUz": "Chegirma bilan sotib olish."
+        },
+        {
+          "order": 7,
+          "word": "sparen",
+          "translationUz": "tejamoq",
+          "partOfSpeech": "verb",
+          "example": "Ich spare Geld.",
+          "exampleUz": "Men pul tejayman."
+        },
+        {
+          "order": 8,
+          "word": "Verbraucher",
+          "article": "der",
+          "plural": "die Verbraucher",
+          "translationUz": "iste'molchi",
+          "partOfSpeech": "noun",
+          "example": "Ein kritischer Verbraucher.",
+          "exampleUz": "Tanqidchi iste'molchi."
+        },
+        {
+          "order": 9,
+          "word": "vermeiden",
+          "translationUz": "chetlab o‘tmoq",
+          "partOfSpeech": "verb",
+          "example": "Plastik vermeiden.",
+          "exampleUz": "Plastikdan qochish."
+        },
+        {
+          "order": 10,
+          "word": "übermäßig",
+          "translationUz": "ortiqcha",
+          "partOfSpeech": "adjective",
+          "example": "Übermäßiger Konsum.",
+          "exampleUz": "Ortiqcha iste'mol."
+        },
+        {
+          "order": 11,
+          "word": "Bedürfnis",
+          "article": "das",
+          "plural": "die Bedürfnisse",
+          "translationUz": "ehtiyoj",
+          "partOfSpeech": "noun",
+          "example": "Ein wichtiges Bedürfnis.",
+          "exampleUz": "Muhim ehtiyoj."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Mit Rabatt kannst du ____.",
+          "options": [
+            "sparen",
+            "verlieren",
+            "ausgeben"
+          ],
+          "answerKey": {
+            "correctAnswer": "sparen"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 14,
+      "title": "Migration und Integration",
+      "description": "Migratsiya va integratsiya.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Migration",
+          "article": "die",
+          "plural": "die Migrationen",
+          "translationUz": "migratsiya",
+          "partOfSpeech": "noun",
+          "example": "Globale Migration.",
+          "exampleUz": "Global migratsiya."
+        },
+        {
+          "order": 2,
+          "word": "Flüchtling",
+          "article": "der",
+          "plural": "die Flüchtlinge",
+          "translationUz": "qochqin",
+          "partOfSpeech": "noun",
+          "example": "Flüchtlinge aufnehmen.",
+          "exampleUz": "Qochqinlarni qabul qilish."
+        },
+        {
+          "order": 3,
+          "word": "integrieren",
+          "translationUz": "integratsiya qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Sich in die Gesellschaft integrieren.",
+          "exampleUz": "Jamiyatga integratsiya qilish."
+        },
+        {
+          "order": 4,
+          "word": "Herkunft",
+          "article": "die",
+          "plural": "die Herkünfte",
+          "translationUz": "kelib chiqish",
+          "partOfSpeech": "noun",
+          "example": "Seine Herkunft ist türkisch.",
+          "exampleUz": "Uning kelib chiqishi turkiy."
+        },
+        {
+          "order": 5,
+          "word": "Sprachkenntnisse",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "til bilimi",
+          "partOfSpeech": "noun",
+          "example": "Gute Sprachkenntnisse haben.",
+          "exampleUz": "Yaxshi til bilimiga ega bo‘lish."
+        },
+        {
+          "order": 6,
+          "word": "sich anpassen",
+          "translationUz": "moslashmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich passe mich an.",
+          "exampleUz": "Men moslashyapman."
+        },
+        {
+          "order": 7,
+          "word": "Vielfalt",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "turlilik",
+          "partOfSpeech": "noun",
+          "example": "Kulturelle Vielfalt.",
+          "exampleUz": "Madaniy turlilik."
+        },
+        {
+          "order": 8,
+          "word": "Staatsbürgerschaft",
+          "article": "die",
+          "plural": "die Staatsbürgerschaften",
+          "translationUz": "fuqarolik",
+          "partOfSpeech": "noun",
+          "example": "Die deutsche Staatsbürgerschaft.",
+          "exampleUz": "Nemis fuqaroligi."
+        },
+        {
+          "order": 9,
+          "word": "sich niederlassen",
+          "translationUz": "yashab qolmoq",
+          "partOfSpeech": "verb",
+          "example": "Sich in Berlin niederlassen.",
+          "exampleUz": "Berlinda yashab qolish."
+        },
+        {
+          "order": 10,
+          "word": "multikulturell",
+          "translationUz": "ko‘p madaniyatli",
+          "partOfSpeech": "adjective",
+          "example": "Eine multikulturelle Stadt.",
+          "exampleUz": "Ko‘p madaniyatli shahar."
+        },
+        {
+          "order": 11,
+          "word": "Asyl",
+          "article": "das",
+          "plural": "–",
+          "translationUz": "boshpana",
+          "partOfSpeech": "noun",
+          "example": "Asyl beantragen.",
+          "exampleUz": "Boshpana so‘rash."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Vielfalt» nima?",
+          "options": [
+            "turlilik",
+            "oddiylik",
+            "qiyinlik"
+          ],
+          "answerKey": {
+            "correctAnswer": "turlilik"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 15,
+      "title": "Gesundheitssystem",
+      "description": "Sog‘liqni saqlash tizimi.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Krankenhaus",
+          "article": "das",
+          "plural": "die Krankenhäuser",
+          "translationUz": "shifoxona",
+          "partOfSpeech": "noun",
+          "example": "Im Krankenhaus arbeiten.",
+          "exampleUz": "Shifoxonada ishlash."
+        },
+        {
+          "order": 2,
+          "word": "Versicherung",
+          "article": "die",
+          "plural": "die Versicherungen",
+          "translationUz": "sug‘urta",
+          "partOfSpeech": "noun",
+          "example": "Krankenversicherung bezahlen.",
+          "exampleUz": "Tibbiy sug‘urta to‘lash."
+        },
+        {
+          "order": 3,
+          "word": "Patient",
+          "article": "der",
+          "plural": "die Patienten",
+          "translationUz": "bemor",
+          "partOfSpeech": "noun",
+          "example": "Der Patient wartet.",
+          "exampleUz": "Bemor kutmoqda."
+        },
+        {
+          "order": 4,
+          "word": "Operation",
+          "article": "die",
+          "plural": "die Operationen",
+          "translationUz": "operatsiya",
+          "partOfSpeech": "noun",
+          "example": "Eine schwierige Operation.",
+          "exampleUz": "Qiyin operatsiya."
+        },
+        {
+          "order": 5,
+          "word": "behandeln",
+          "translationUz": "davolamoq",
+          "partOfSpeech": "verb",
+          "example": "Der Arzt behandelt den Patienten.",
+          "exampleUz": "Shifokor bemorni davolaydi."
+        },
+        {
+          "order": 6,
+          "word": "chronisch",
+          "translationUz": "surunkali",
+          "partOfSpeech": "adjective",
+          "example": "Eine chronische Krankheit.",
+          "exampleUz": "Surunkali kasallik."
+        },
+        {
+          "order": 7,
+          "word": "Pflege",
+          "article": "die",
+          "plural": "die Pflegen",
+          "translationUz": "parvarish",
+          "partOfSpeech": "noun",
+          "example": "Gute Pflege im Heim.",
+          "exampleUz": "Uyda yaxshi parvarish."
+        },
+        {
+          "order": 8,
+          "word": "Notaufnahme",
+          "article": "die",
+          "plural": "die Notaufnahmen",
+          "translationUz": "shoshilinch yordam",
+          "partOfSpeech": "noun",
+          "example": "In die Notaufnahme gehen.",
+          "exampleUz": "Shoshilinch yordamga borish."
+        },
+        {
+          "order": 9,
+          "word": "diagnostizieren",
+          "translationUz": "tashxislamoq",
+          "partOfSpeech": "verb",
+          "example": "Der Arzt diagnostiziert die Krankheit.",
+          "exampleUz": "Shifokor kasallikni tashxislaydi."
+        },
+        {
+          "order": 10,
+          "word": "ambulant",
+          "translationUz": "ambulatoriya",
+          "partOfSpeech": "adjective",
+          "example": "Eine ambulante Behandlung.",
+          "exampleUz": "Ambulatoriya muolajasi."
+        },
+        {
+          "order": 11,
+          "word": "Rezept",
+          "article": "das",
+          "plural": "die Rezepte",
+          "translationUz": "retsept (dori)",
+          "partOfSpeech": "noun",
+          "example": "Ein neues Rezept.",
+          "exampleUz": "Yangi retsept."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Der ____ behandelt den Patienten.",
+          "options": [
+            "Arzt",
+            "Lehrer",
+            "Künstler"
+          ],
+          "answerKey": {
+            "correctAnswer": "Arzt"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 16,
+      "title": "Wissenschaft",
+      "description": "Fan.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Wissenschaft",
+          "article": "die",
+          "plural": "die Wissenschaften",
+          "translationUz": "fan",
+          "partOfSpeech": "noun",
+          "example": "Moderne Wissenschaft.",
+          "exampleUz": "Zamonaviy fan."
+        },
+        {
+          "order": 2,
+          "word": "Forschung",
+          "article": "die",
+          "plural": "die Forschungen",
+          "translationUz": "tadqiqot",
+          "partOfSpeech": "noun",
+          "example": "Wissenschaftliche Forschung.",
+          "exampleUz": "Ilmiy tadqiqot."
+        },
+        {
+          "order": 3,
+          "word": "Experiment",
+          "article": "das",
+          "plural": "die Experimente",
+          "translationUz": "tajriba",
+          "partOfSpeech": "noun",
+          "example": "Ein chemisches Experiment.",
+          "exampleUz": "Kimyoviy tajriba."
+        },
+        {
+          "order": 4,
+          "word": "beweisen",
+          "translationUz": "isbotlamoq",
+          "partOfSpeech": "verb",
+          "example": "Die Theorie wurde bewiesen.",
+          "exampleUz": "Nazariya isbotlangan."
+        },
+        {
+          "order": 5,
+          "word": "Entdeckung",
+          "article": "die",
+          "plural": "die Entdeckungen",
+          "translationUz": "kashfiyot",
+          "partOfSpeech": "noun",
+          "example": "Eine große Entdeckung.",
+          "exampleUz": "Katta kashfiyot."
+        },
+        {
+          "order": 6,
+          "word": "Theorie",
+          "article": "die",
+          "plural": "die Theorien",
+          "translationUz": "nazariya",
+          "partOfSpeech": "noun",
+          "example": "Eine neue Theorie.",
+          "exampleUz": "Yangi nazariya."
+        },
+        {
+          "order": 7,
+          "word": "komplex",
+          "translationUz": "murakkab",
+          "partOfSpeech": "adjective",
+          "example": "Ein komplexes Problem.",
+          "exampleUz": "Murakkab muammo."
+        },
+        {
+          "order": 8,
+          "word": "Labor",
+          "article": "das",
+          "plural": "die Labore",
+          "translationUz": "laboratoriya",
+          "partOfSpeech": "noun",
+          "example": "Im Labor arbeiten.",
+          "exampleUz": "Laboratoriyada ishlash."
+        },
+        {
+          "order": 9,
+          "word": "publizieren",
+          "translationUz": "nashr qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Eine Studie publizieren.",
+          "exampleUz": "Tadqiqotni nashr qilish."
+        },
+        {
+          "order": 10,
+          "word": "empirisch",
+          "translationUz": "empirik",
+          "partOfSpeech": "adjective",
+          "example": "Empirische Daten.",
+          "exampleUz": "Empirik ma'lumotlar."
+        },
+        {
+          "order": 11,
+          "word": "Studie",
+          "article": "die",
+          "plural": "die Studien",
+          "translationUz": "tadqiqot",
+          "partOfSpeech": "noun",
+          "example": "Eine neue Studie.",
+          "exampleUz": "Yangi tadqiqot."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Entdeckung» nima?",
+          "options": [
+            "kashfiyot",
+            "yo‘qotish",
+            "mashq"
+          ],
+          "answerKey": {
+            "correctAnswer": "kashfiyot"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 17,
+      "title": "Globalisierung",
+      "description": "Globalizatsiya.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Globalisierung",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "globalizatsiya",
+          "partOfSpeech": "noun",
+          "example": "Die Globalisierung wächst.",
+          "exampleUz": "Globalizatsiya o‘sadi."
+        },
+        {
+          "order": 2,
+          "word": "Welthandel",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "jahon savdosi",
+          "partOfSpeech": "noun",
+          "example": "Der Welthandel verändert sich.",
+          "exampleUz": "Jahon savdosi o‘zgaradi."
+        },
+        {
+          "order": 3,
+          "word": "Produktion",
+          "article": "die",
+          "plural": "die Produktionen",
+          "translationUz": "ishlab chiqarish",
+          "partOfSpeech": "noun",
+          "example": "Industrielle Produktion.",
+          "exampleUz": "Sanoat ishlab chiqarishi."
+        },
+        {
+          "order": 4,
+          "word": "exportieren",
+          "translationUz": "eksport qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Wir exportieren Autos.",
+          "exampleUz": "Biz mashinalarni eksport qilamiz."
+        },
+        {
+          "order": 5,
+          "word": "importieren",
+          "translationUz": "import qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Wir importieren Rohstoffe.",
+          "exampleUz": "Biz xomashyoni import qilamiz."
+        },
+        {
+          "order": 6,
+          "word": "Konkurrenz",
+          "article": "die",
+          "plural": "die Konkurrenzen",
+          "translationUz": "raqobat",
+          "partOfSpeech": "noun",
+          "example": "Harte Konkurrenz.",
+          "exampleUz": "Qattiq raqobat."
+        },
+        {
+          "order": 7,
+          "word": "international",
+          "translationUz": "xalqaro",
+          "partOfSpeech": "adjective",
+          "example": "Ein internationales Projekt.",
+          "exampleUz": "Xalqaro loyiha."
+        },
+        {
+          "order": 8,
+          "word": "Zoll",
+          "article": "der",
+          "plural": "die Zölle",
+          "translationUz": "boj",
+          "partOfSpeech": "noun",
+          "example": "Hohe Zölle.",
+          "exampleUz": "Yuqori bojlar."
+        },
+        {
+          "order": 10,
+          "word": "global",
+          "translationUz": "global",
+          "partOfSpeech": "adjective",
+          "example": "Ein globales Problem.",
+          "exampleUz": "Global muammo."
+        },
+        {
+          "order": 11,
+          "word": "Handel",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "savdo",
+          "partOfSpeech": "noun",
+          "example": "Internationaler Handel.",
+          "exampleUz": "Xalqaro savdo."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Wir ____ Autos nach Afrika.",
+          "options": [
+            "exportieren",
+            "importieren",
+            "verkaufen"
+          ],
+          "answerKey": {
+            "correctAnswer": "exportieren"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 18,
+      "title": "Konflikte und Lösungen",
+      "description": "Nizolar va yechimlar.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Konflikt",
+          "article": "der",
+          "plural": "die Konflikte",
+          "translationUz": "nizo",
+          "partOfSpeech": "noun",
+          "example": "Internationaler Konflikt.",
+          "exampleUz": "Xalqaro nizo."
+        },
+        {
+          "order": 2,
+          "word": "Lösung",
+          "article": "die",
+          "plural": "die Lösungen",
+          "translationUz": "yechim",
+          "partOfSpeech": "noun",
+          "example": "Eine kreative Lösung.",
+          "exampleUz": "Ijodiy yechim."
+        },
+        {
+          "order": 3,
+          "word": "verhandeln",
+          "translationUz": "muzokaralar olib bormoq",
+          "partOfSpeech": "verb",
+          "example": "Wir verhandeln einen Vertrag.",
+          "exampleUz": "Biz shartnoma bo‘yicha muzokaralar olib boramiz."
+        },
+        {
+          "order": 4,
+          "word": "Kompromiss",
+          "article": "der",
+          "plural": "die Kompromisse",
+          "translationUz": "murosa",
+          "partOfSpeech": "noun",
+          "example": "Einen Kompromiss finden.",
+          "exampleUz": "Murosaga kelish."
+        },
+        {
+          "order": 5,
+          "word": "vermeiden",
+          "translationUz": "chetlab o‘tmoq",
+          "partOfSpeech": "verb",
+          "example": "Konflikte vermeiden.",
+          "exampleUz": "Nizolardan qochish."
+        },
+        {
+          "order": 6,
+          "word": "friedlich",
+          "translationUz": "tinch",
+          "partOfSpeech": "adjective",
+          "example": "Eine friedliche Lösung.",
+          "exampleUz": "Tinch yechim."
+        },
+        {
+          "order": 7,
+          "word": "Vereinbarung",
+          "article": "die",
+          "plural": "die Vereinbarungen",
+          "translationUz": "kelishuv",
+          "partOfSpeech": "noun",
+          "example": "Eine schriftliche Vereinbarung.",
+          "exampleUz": "Yozma kelishuv."
+        },
+        {
+          "order": 8,
+          "word": "Verhandlung",
+          "article": "die",
+          "plural": "die Verhandlungen",
+          "translationUz": "muzokaralar",
+          "partOfSpeech": "noun",
+          "example": "Lange Verhandlungen.",
+          "exampleUz": "Uzoq muzokaralar."
+        },
+        {
+          "order": 9,
+          "word": "deeskalieren",
+          "translationUz": "keskinlikni kamaytirmoq",
+          "partOfSpeech": "verb",
+          "example": "Die Situation deeskalieren.",
+          "exampleUz": "Vaziyat keskinligini kamaytirmoq."
+        },
+        {
+          "order": 10,
+          "word": "diplomatisch",
+          "translationUz": "diplomatik",
+          "partOfSpeech": "adjective",
+          "example": "Eine diplomatische Lösung.",
+          "exampleUz": "Diplomatik yechim."
+        },
+        {
+          "order": 11,
+          "word": "Vermittler",
+          "article": "der",
+          "plural": "die Vermittler",
+          "translationUz": "vositachi",
+          "partOfSpeech": "noun",
+          "example": "Ein neutraler Vermittler.",
+          "exampleUz": "Neytral vositachi."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Vereinbarung» nima?",
+          "options": [
+            "kelishuv",
+            "shartnoma",
+            "kelayotgan"
+          ],
+          "answerKey": {
+            "correctAnswer": "kelishuv"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 19,
+      "title": "Freizeitgestaltung",
+      "description": "Dam olishni tashkil qilish.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Freizeit",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "dam olish vaqti",
+          "partOfSpeech": "noun",
+          "example": "Freizeit genießen.",
+          "exampleUz": "Dam olish vaqtidan rohatlanmoq."
+        },
+        {
+          "order": 2,
+          "word": "genießen",
+          "translationUz": "rohatlanmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich genieße den Abend.",
+          "exampleUz": "Men oqshomdan rohatlanaman."
+        },
+        {
+          "order": 3,
+          "word": "Aktivität",
+          "article": "die",
+          "plural": "die Aktivitäten",
+          "translationUz": "faoliyat",
+          "partOfSpeech": "noun",
+          "example": "Sportliche Aktivität.",
+          "exampleUz": "Sport faoliyati."
+        },
+        {
+          "order": 4,
+          "word": "Hobby",
+          "article": "das",
+          "plural": "die Hobbys",
+          "translationUz": "mashg‘ulot",
+          "partOfSpeech": "noun",
+          "example": "Ein neues Hobby.",
+          "exampleUz": "Yangi mashg‘ulot."
+        },
+        {
+          "order": 5,
+          "word": "ausprobieren",
+          "translationUz": "sinab ko‘rmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich probiere etwas Neues aus.",
+          "exampleUz": "Men yangi narsani sinab ko‘raman."
+        },
+        {
+          "order": 6,
+          "word": "abwechslungsreich",
+          "translationUz": "turli-tuman",
+          "partOfSpeech": "adjective",
+          "example": "Eine abwechslungsreiche Freizeit.",
+          "exampleUz": "Turli-tuman dam olish."
+        },
+        {
+          "order": 7,
+          "word": "Urlaub",
+          "article": "der",
+          "plural": "die Urlaube",
+          "translationUz": "ta'til",
+          "partOfSpeech": "noun",
+          "example": "Ich fahre in den Urlaub.",
+          "exampleUz": "Men ta'tilga ketyapman."
+        },
+        {
+          "order": 8,
+          "word": "Ausflug",
+          "article": "der",
+          "plural": "die Ausflüge",
+          "translationUz": "sayr",
+          "partOfSpeech": "noun",
+          "example": "Einen Ausflug machen.",
+          "exampleUz": "Sayr qilish."
+        },
+        {
+          "order": 9,
+          "word": "sich entspannen",
+          "translationUz": "dam olmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich entspanne mich am See.",
+          "exampleUz": "Ko‘l bo‘yida dam olaman."
+        },
+        {
+          "order": 10,
+          "word": "aktiv",
+          "translationUz": "aktiv",
+          "partOfSpeech": "adjective",
+          "example": "Eine aktive Freizeit.",
+          "exampleUz": "Aktiv dam olish."
+        },
+        {
+          "order": 11,
+          "word": "Rückzugsort",
+          "article": "der",
+          "plural": "die Rückzugsorte",
+          "translationUz": "yolg‘izlanish joyi",
+          "partOfSpeech": "noun",
+          "example": "Mein Rückzugsort ist das Bergdorf.",
+          "exampleUz": "Yolg‘izlanish joyim — tog‘ qishlog‘i."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Ich ____ den Sommer am Meer.",
+          "options": [
+            "genieße",
+            "arbeite",
+            "kaufe"
+          ],
+          "answerKey": {
+            "correctAnswer": "genieße"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 20,
+      "title": "Zukunftspläne",
+      "description": "Kelajak rejalari.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Ziel",
+          "article": "das",
+          "plural": "die Ziele",
+          "translationUz": "maqsad",
+          "partOfSpeech": "noun",
+          "example": "Ein klares Ziel haben.",
+          "exampleUz": "Aniq maqsadga ega bo‘lish."
+        },
+        {
+          "order": 2,
+          "word": "Plan",
+          "article": "der",
+          "plural": "die Pläne",
+          "translationUz": "reja",
+          "partOfSpeech": "noun",
+          "example": "Ein konkreter Plan.",
+          "exampleUz": "Aniq reja."
+        },
+        {
+          "order": 3,
+          "word": "verwirklichen",
+          "translationUz": "amalga oshirmoq",
+          "partOfSpeech": "verb",
+          "example": "Träume verwirklichen.",
+          "exampleUz": "Orzularni amalga oshirmoq."
+        },
+        {
+          "order": 4,
+          "word": "Traum",
+          "article": "der",
+          "plural": "die Träume",
+          "translationUz": "orzu",
+          "partOfSpeech": "noun",
+          "example": "Ein großer Traum.",
+          "exampleUz": "Katta orzu."
+        },
+        {
+          "order": 5,
+          "word": "erreichen",
+          "translationUz": "erishmoq",
+          "partOfSpeech": "verb",
+          "example": "Erfolge erreichen.",
+          "exampleUz": "Muvaffaqiyatga erishmoq."
+        },
+        {
+          "order": 6,
+          "word": "Erfolg",
+          "article": "der",
+          "plural": "die Erfolge",
+          "translationUz": "muvaffaqiyat",
+          "partOfSpeech": "noun",
+          "example": "Großer Erfolg.",
+          "exampleUz": "Katta muvaffaqiyat."
+        },
+        {
+          "order": 7,
+          "word": "ambitioniert",
+          "translationUz": "shuhratparast",
+          "partOfSpeech": "adjective",
+          "example": "Ambitionierte Pläne.",
+          "exampleUz": "Shuhratparast rejalar."
+        },
+        {
+          "order": 8,
+          "word": "Vision",
+          "article": "die",
+          "plural": "die Visionen",
+          "translationUz": "nazariya",
+          "partOfSpeech": "noun",
+          "example": "Eine klare Vision haben.",
+          "exampleUz": "Aniq nazariyaga ega bo‘lish."
+        },
+        {
+          "order": 9,
+          "word": "verfolgen",
+          "translationUz": "ta'qib etmoq (maqsad)",
+          "partOfSpeech": "verb",
+          "example": "Ein Ziel verfolgen.",
+          "exampleUz": "Maqsadni ta'qib etish."
+        },
+        {
+          "order": 10,
+          "word": "langfristig",
+          "translationUz": "uzoq muddatli",
+          "partOfSpeech": "adjective",
+          "example": "Ein langfristiger Plan.",
+          "exampleUz": "Uzoq muddatli reja."
+        },
+        {
+          "order": 11,
+          "word": "Investition",
+          "article": "die",
+          "plural": "die Investitionen",
+          "translationUz": "sarmoya",
+          "partOfSpeech": "noun",
+          "example": "Eine lohnende Investition.",
+          "exampleUz": "Foyda keltiradigan sarmoya."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Traum» nima?",
+          "options": [
+            "orzu",
+            "qo‘rquv",
+            "shaytanat"
+          ],
+          "answerKey": {
+            "correctAnswer": "orzu"
+          }
+        }
+      ],
+      "reading": {
+        "title": "Mein Lebensziel",
+        "content": "Mein größtes Ziel ist es, eine eigene Firma zu gründen. Ich plane, in den nächsten fünf Jahren Geld zu sparen und Erfahrung in meiner Branche zu sammeln. Dann möchte ich einen kleinen Online-Shop eröffnen und schrittweise wachsen.",
+        "translationUz": "Mening eng katta maqsadim — o‘z firmamni ochish. Keyingi besh yil ichida pul tejashni va sohamda tajriba to‘plashni rejalashtiraman. Keyin kichik onlayn do‘kon ochib, asta-sekin kengaytirmoqchiman.",
+        "questions": [
+          {
+            "question": "Was ist das größte Ziel?",
+            "options": [
+              "Ins Ausland ziehen",
+              "Eine eigene Firma gründen",
+              "Arzt werden"
+            ],
+            "answerKey": {
+              "correctAnswer": "Eine eigene Firma gründen"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "unitNumber": 21,
+      "title": "Soziale Medien",
+      "description": "Ijtimoiy tarmoqlar.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Netzwerk",
+          "article": "das",
+          "plural": "die Netzwerke",
+          "translationUz": "tarmoq",
+          "partOfSpeech": "noun",
+          "example": "Soziales Netzwerk.",
+          "exampleUz": "Ijtimoiy tarmoq."
+        },
+        {
+          "order": 2,
+          "word": "Beitrag",
+          "article": "der",
+          "plural": "die Beiträge",
+          "translationUz": "post",
+          "partOfSpeech": "noun",
+          "example": "Einen Beitrag teilen.",
+          "exampleUz": "Postni ulashish."
+        },
+        {
+          "order": 3,
+          "word": "teilen",
+          "translationUz": "ulashmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich teile das Foto.",
+          "exampleUz": "Men fotoni ulashyapman."
+        },
+        {
+          "order": 4,
+          "word": "folgen",
+          "translationUz": "kuzatmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich folge dir.",
+          "exampleUz": "Men seni kuzataman."
+        },
+        {
+          "order": 5,
+          "word": "Kommentar",
+          "article": "der",
+          "plural": "die Kommentare",
+          "translationUz": "izoh",
+          "partOfSpeech": "noun",
+          "example": "Einen Kommentar schreiben.",
+          "exampleUz": "Izoh yozish."
+        },
+        {
+          "order": 6,
+          "word": "süchtig",
+          "translationUz": "qaram",
+          "partOfSpeech": "adjective",
+          "example": "Süchtig nach Handy.",
+          "exampleUz": "Telefonga qaram."
+        },
+        {
+          "order": 7,
+          "word": "Datenschutz",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "ma'lumotlar himoyasi",
+          "partOfSpeech": "noun",
+          "example": "Datenschutz ist wichtig.",
+          "exampleUz": "Ma'lumotlar himoyasi muhim."
+        },
+        {
+          "order": 8,
+          "word": "Influencer",
+          "article": "der",
+          "plural": "die Influencer",
+          "translationUz": "influenser",
+          "partOfSpeech": "noun",
+          "example": "Ein beliebter Influencer.",
+          "exampleUz": "Mashhur influenser."
+        },
+        {
+          "order": 9,
+          "word": "blockieren",
+          "translationUz": "bloklamoq",
+          "partOfSpeech": "verb",
+          "example": "Einen Nutzer blockieren.",
+          "exampleUz": "Foydalanuvchini bloklash."
+        },
+        {
+          "order": 10,
+          "word": "viral",
+          "translationUz": "virusli (ijtimoiy tarmoqda)",
+          "partOfSpeech": "adjective",
+          "example": "Ein virales Video.",
+          "exampleUz": "Virusli video."
+        },
+        {
+          "order": 11,
+          "word": "Reichweite",
+          "article": "die",
+          "plural": "die Reichweiten",
+          "translationUz": "qamrov",
+          "partOfSpeech": "noun",
+          "example": "Große Reichweite haben.",
+          "exampleUz": "Katta qamrovga ega bo‘lish."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Ich ____ dir auf Instagram.",
+          "options": [
+            "folge",
+            "teile",
+            "kommentiere"
+          ],
+          "answerKey": {
+            "correctAnswer": "folge"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 22,
+      "title": "Konsum und Nachhaltigkeit",
+      "description": "Iste'mol va barqarorlik.",
+      "words": [
+        {
+          "order": 1,
+          "word": "nachhaltig",
+          "translationUz": "barqaror",
+          "partOfSpeech": "adjective",
+          "example": "Nachhaltige Produkte.",
+          "exampleUz": "Barqaror mahsulotlar."
+        },
+        {
+          "order": 2,
+          "word": "Kleidung",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "kiyim-kechak",
+          "partOfSpeech": "noun",
+          "example": "Faire Kleidung.",
+          "exampleUz": "Adolatli kiyim."
+        },
+        {
+          "order": 3,
+          "word": "wiederverwenden",
+          "translationUz": "qayta ishlatmoq",
+          "partOfSpeech": "verb",
+          "example": "Flaschen wiederverwenden.",
+          "exampleUz": "Shishalarni qayta ishlatish."
+        },
+        {
+          "order": 4,
+          "word": "recyceln",
+          "translationUz": "qayta ishlab chiqarmoq",
+          "partOfSpeech": "verb",
+          "example": "Papier recyceln.",
+          "exampleUz": "Qog‘ozni qayta ishlab chiqarish."
+        },
+        {
+          "order": 5,
+          "word": "Verpackung",
+          "article": "die",
+          "plural": "die Verpackungen",
+          "translationUz": "qadoq",
+          "partOfSpeech": "noun",
+          "example": "Weniger Verpackung.",
+          "exampleUz": "Kamroq qadoq."
+        },
+        {
+          "order": 6,
+          "word": "Zweite Hand",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "ikkinchi qo‘l",
+          "partOfSpeech": "noun",
+          "example": "Kleidung aus zweiter Hand.",
+          "exampleUz": "Ikkinchi qo‘l kiyim."
+        },
+        {
+          "order": 7,
+          "word": "umweltfreundlich",
+          "translationUz": "ekologik toza",
+          "partOfSpeech": "adjective",
+          "example": "Umweltfreundliche Produkte.",
+          "exampleUz": "Ekologik toza mahsulotlar."
+        },
+        {
+          "order": 8,
+          "word": "Zero Waste",
+          "article": "das",
+          "plural": "–",
+          "translationUz": "nolinchi chiqindi",
+          "partOfSpeech": "noun",
+          "example": "Zero Waste leben.",
+          "exampleUz": "Nolinchi chiqindili hayot kechirmoq."
+        },
+        {
+          "order": 9,
+          "word": "spenden",
+          "translationUz": "xayriya qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Alte Kleidung spenden.",
+          "exampleUz": "Eski kiyimni xayriya qilish."
+        },
+        {
+          "order": 10,
+          "word": "regional",
+          "translationUz": "mahalliy",
+          "partOfSpeech": "adjective",
+          "example": "Regionale Produkte kaufen.",
+          "exampleUz": "Mahalliy mahsulotlarni sotib olish."
+        },
+        {
+          "order": 11,
+          "word": "Lebensmittelverschwendung",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "oziq-ovqat isrofi",
+          "partOfSpeech": "noun",
+          "example": "Lebensmittelverschwendung vermeiden.",
+          "exampleUz": "Oziq-ovqat isrofidan qochish."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«nachhaltig» qanday?",
+          "options": [
+            "barqaror",
+            "qisqa",
+            "arzon"
+          ],
+          "answerKey": {
+            "correctAnswer": "barqaror"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 23,
+      "title": "Reisen in die Welt",
+      "description": "Dunyoga sayohat.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Kontinent",
+          "article": "der",
+          "plural": "die Kontinente",
+          "translationUz": "qit'a",
+          "partOfSpeech": "noun",
+          "example": "Sieben Kontinente.",
+          "exampleUz": "Yetti qit'a."
+        },
+        {
+          "order": 2,
+          "word": "Grenze",
+          "article": "die",
+          "plural": "die Grenzen",
+          "translationUz": "chegara",
+          "partOfSpeech": "noun",
+          "example": "Die Grenze überqueren.",
+          "exampleUz": "Chegarani kesib o‘tish."
+        },
+        {
+          "order": 3,
+          "word": "besichtigen",
+          "translationUz": "ko‘rib chiqmoq (joyni)",
+          "partOfSpeech": "verb",
+          "example": "Wir besichtigen die Stadt.",
+          "exampleUz": "Biz shaharni ko‘rib chiqamiz."
+        },
+        {
+          "order": 4,
+          "word": "Sehenswürdigkeit",
+          "article": "die",
+          "plural": "die Sehenswürdigkeiten",
+          "translationUz": "diqqatga sazovor joy",
+          "partOfSpeech": "noun",
+          "example": "Berühmte Sehenswürdigkeiten.",
+          "exampleUz": "Mashhur diqqatga sazovor joylar."
+        },
+        {
+          "order": 5,
+          "word": "Rucksack",
+          "article": "der",
+          "plural": "die Rucksäcke",
+          "translationUz": "ryukzak",
+          "partOfSpeech": "noun",
+          "example": "Ein großer Rucksack.",
+          "exampleUz": "Katta ryukzak."
+        },
+        {
+          "order": 6,
+          "word": "abenteuerlich",
+          "translationUz": "sarguzashtli",
+          "partOfSpeech": "adjective",
+          "example": "Eine abenteuerliche Reise.",
+          "exampleUz": "Sarguzashtli sayohat."
+        },
+        {
+          "order": 7,
+          "word": "Pass",
+          "article": "der",
+          "plural": "die Pässe",
+          "translationUz": "pasport",
+          "partOfSpeech": "noun",
+          "example": "Mein Pass ist gültig.",
+          "exampleUz": "Pasportim amal qiladi."
+        },
+        {
+          "order": 8,
+          "word": "Visum",
+          "article": "das",
+          "plural": "die Visa",
+          "translationUz": "viza",
+          "partOfSpeech": "noun",
+          "example": "Ein Visum beantragen.",
+          "exampleUz": "Viza arizasi berish."
+        },
+        {
+          "order": 9,
+          "word": "übernachten",
+          "translationUz": "tunash",
+          "partOfSpeech": "verb",
+          "example": "In einem Hostel übernachten.",
+          "exampleUz": "Xostelda tunash."
+        },
+        {
+          "order": 10,
+          "word": "exotisch",
+          "translationUz": "ekzotik",
+          "partOfSpeech": "adjective",
+          "example": "Eine exotische Küche.",
+          "exampleUz": "Ekzotik oshxona."
+        },
+        {
+          "order": 11,
+          "word": "Souvenir",
+          "article": "das",
+          "plural": "die Souvenirs",
+          "translationUz": "esdalik",
+          "partOfSpeech": "noun",
+          "example": "Ein kleines Souvenir.",
+          "exampleUz": "Kichik esdalik."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Wir ____ heute das Museum.",
+          "options": [
+            "besichtigen",
+            "lernen",
+            "trinken"
+          ],
+          "answerKey": {
+            "correctAnswer": "besichtigen"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 24,
+      "title": "Energie und Nachhaltigkeit",
+      "description": "Energiya va barqarorlik.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Solarenergie",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "quyosh energiyasi",
+          "partOfSpeech": "noun",
+          "example": "Solarenergie nutzen.",
+          "exampleUz": "Quyosh energiyasidan foydalanish."
+        },
+        {
+          "order": 2,
+          "word": "Wind",
+          "article": "der",
+          "plural": "die Winde",
+          "translationUz": "shamol",
+          "partOfSpeech": "noun",
+          "example": "Starker Wind.",
+          "exampleUz": "Kuchli shamol."
+        },
+        {
+          "order": 3,
+          "word": "Strom",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "elektr quvvati",
+          "partOfSpeech": "noun",
+          "example": "Strom sparen.",
+          "exampleUz": "Elektr quvvatini tejash."
+        },
+        {
+          "order": 4,
+          "word": "sparen",
+          "translationUz": "tejamoq",
+          "partOfSpeech": "verb",
+          "example": "Energie sparen.",
+          "exampleUz": "Energiya tejash."
+        },
+        {
+          "order": 5,
+          "word": "Umwelt",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "atrof-muhit",
+          "partOfSpeech": "noun",
+          "example": "Die Umwelt schützen.",
+          "exampleUz": "Atrof-muhitni muhofaza qilish."
+        },
+        {
+          "order": 6,
+          "word": "Treibhauseffekt",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "issiqxona effekti",
+          "partOfSpeech": "noun",
+          "example": "Der Treibhauseffekt wächst.",
+          "exampleUz": "Issiqxona effekti kuchaymoqda."
+        },
+        {
+          "order": 7,
+          "word": "erneuerbar",
+          "translationUz": "qayta tiklanadigan",
+          "partOfSpeech": "adjective",
+          "example": "Erneuerbare Energien.",
+          "exampleUz": "Qayta tiklanadigan energiya."
+        },
+        {
+          "order": 8,
+          "word": "Kernkraftwerk",
+          "article": "das",
+          "plural": "die Kernkraftwerke",
+          "translationUz": "atom elektr stansiyasi",
+          "partOfSpeech": "noun",
+          "example": "Ein modernes Kernkraftwerk.",
+          "exampleUz": "Zamonaviy AES."
+        },
+        {
+          "order": 9,
+          "word": "umweltschonend handeln",
+          "translationUz": "ekologik toza harakat qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Wir sollten umweltschonend handeln.",
+          "exampleUz": "Biz ekologik toza harakat qilishimiz kerak."
+        },
+        {
+          "order": 10,
+          "word": "effizient",
+          "translationUz": "samarali",
+          "partOfSpeech": "adjective",
+          "example": "Eine effiziente Lösung.",
+          "exampleUz": "Samarali yechim."
+        },
+        {
+          "order": 11,
+          "word": "Verbrauch",
+          "article": "der",
+          "plural": "die Verbräuche",
+          "translationUz": "iste'mol",
+          "partOfSpeech": "noun",
+          "example": "Hoher Verbrauch.",
+          "exampleUz": "Yuqori iste'mol."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«Solarenergie» nimadan olinadi?",
+          "options": [
+            "Sonne",
+            "Mond",
+            "Erde"
+          ],
+          "answerKey": {
+            "correctAnswer": "Sonne"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 25,
+      "title": "Verantwortung und Ethik",
+      "description": "Mas'uliyat va axloq.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Verantwortung",
+          "article": "die",
+          "plural": "die Verantwortungen",
+          "translationUz": "mas'uliyat",
+          "partOfSpeech": "noun",
+          "example": "Verantwortung übernehmen.",
+          "exampleUz": "Mas'uliyatni o‘z zimmasiga olmoq."
+        },
+        {
+          "order": 2,
+          "word": "Ethik",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "axloq",
+          "partOfSpeech": "noun",
+          "example": "Berufliche Ethik.",
+          "exampleUz": "Kasbiy axloq."
+        },
+        {
+          "order": 3,
+          "word": "respektieren",
+          "translationUz": "hurmat qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Andere Meinungen respektieren.",
+          "exampleUz": "Boshqa fikrlarni hurmat qilmoq."
+        },
+        {
+          "order": 4,
+          "word": "fair",
+          "translationUz": "adolatli",
+          "partOfSpeech": "adjective",
+          "example": "Eine faire Entscheidung.",
+          "exampleUz": "Adolatli qaror."
+        },
+        {
+          "order": 5,
+          "word": "Werte",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "qadriyatlar",
+          "partOfSpeech": "noun",
+          "example": "Gemeinsame Werte.",
+          "exampleUz": "Umumiy qadriyatlar."
+        },
+        {
+          "order": 6,
+          "word": "sich einsetzen",
+          "translationUz": "o‘zini bag‘ishlamoq",
+          "partOfSpeech": "verb",
+          "example": "Sich für die Umwelt einsetzen.",
+          "exampleUz": "O‘zini atrof-muhitga bag‘ishlamoq."
+        },
+        {
+          "order": 7,
+          "word": "ehrlich",
+          "translationUz": "halol",
+          "partOfSpeech": "adjective",
+          "example": "Sei immer ehrlich.",
+          "exampleUz": "Hamisha halol bo‘l."
+        },
+        {
+          "order": 8,
+          "word": "Moral",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "axloq",
+          "partOfSpeech": "noun",
+          "example": "Eine starke Moral haben.",
+          "exampleUz": "Kuchli axloqqa ega bo‘lish."
+        },
+        {
+          "order": 9,
+          "word": "abwägen",
+          "translationUz": "chamalamoq",
+          "partOfSpeech": "verb",
+          "example": "Vor- und Nachteile abwägen.",
+          "exampleUz": "Afzallik va kamchiliklarni chamalamoq."
+        },
+        {
+          "order": 10,
+          "word": "integer",
+          "translationUz": "sofdil",
+          "partOfSpeech": "adjective",
+          "example": "Ein integerer Mensch.",
+          "exampleUz": "Sofdil inson."
+        },
+        {
+          "order": 11,
+          "word": "Prinzip",
+          "article": "das",
+          "plural": "die Prinzipien",
+          "translationUz": "tamoyil",
+          "partOfSpeech": "noun",
+          "example": "Nach Prinzipien leben.",
+          "exampleUz": "Tamoyillarga ko‘ra yashash."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Ich ____ deine Meinung.",
+          "options": [
+            "respektiere",
+            "verliere",
+            "esse"
+          ],
+          "answerKey": {
+            "correctAnswer": "respektiere"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 26,
+      "title": "Deutsche Geschichte",
+      "description": "Nemis tarixi.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Geschichte",
+          "article": "die",
+          "plural": "die Geschichten",
+          "translationUz": "tarix",
+          "partOfSpeech": "noun",
+          "example": "Die deutsche Geschichte.",
+          "exampleUz": "Nemis tarixi."
+        },
+        {
+          "order": 2,
+          "word": "Krieg",
+          "article": "der",
+          "plural": "die Kriege",
+          "translationUz": "urush",
+          "partOfSpeech": "noun",
+          "example": "Der Zweite Weltkrieg.",
+          "exampleUz": "Ikkinchi Jahon urushi."
+        },
+        {
+          "order": 3,
+          "word": "Mauer",
+          "article": "die",
+          "plural": "die Mauern",
+          "translationUz": "devor",
+          "partOfSpeech": "noun",
+          "example": "Die Berliner Mauer.",
+          "exampleUz": "Berlin devori."
+        },
+        {
+          "order": 4,
+          "word": "Wiedervereinigung",
+          "article": "die",
+          "plural": "die Wiedervereinigungen",
+          "translationUz": "qayta birlashish",
+          "partOfSpeech": "noun",
+          "example": "Die Wiedervereinigung 1990.",
+          "exampleUz": "1990-yildagi qayta birlashish."
+        },
+        {
+          "order": 5,
+          "word": "fallen",
+          "translationUz": "yiqilmoq / qulamoq",
+          "partOfSpeech": "verb",
+          "example": "Die Mauer fiel 1989.",
+          "exampleUz": "Devor 1989-yilda quladi."
+        },
+        {
+          "order": 6,
+          "word": "historisch",
+          "translationUz": "tarixiy",
+          "partOfSpeech": "adjective",
+          "example": "Ein historisches Ereignis.",
+          "exampleUz": "Tarixiy voqea."
+        },
+        {
+          "order": 7,
+          "word": "Epoche",
+          "article": "die",
+          "plural": "die Epochen",
+          "translationUz": "davr",
+          "partOfSpeech": "noun",
+          "example": "Eine neue Epoche beginnt.",
+          "exampleUz": "Yangi davr boshlanadi."
+        },
+        {
+          "order": 8,
+          "word": "Nationalsozialismus",
+          "article": "der",
+          "plural": "–",
+          "translationUz": "milliy sotsializm",
+          "partOfSpeech": "noun",
+          "example": "Die Zeit des Nationalsozialismus.",
+          "exampleUz": "Milliy sotsializm davri."
+        },
+        {
+          "order": 9,
+          "word": "besiegen",
+          "translationUz": "mag'lub qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Den Gegner besiegen.",
+          "exampleUz": "Raqibni mag'lub qilish."
+        },
+        {
+          "order": 10,
+          "word": "vereint",
+          "translationUz": "birlashgan",
+          "partOfSpeech": "adjective",
+          "example": "Ein vereintes Deutschland.",
+          "exampleUz": "Birlashgan Germaniya."
+        },
+        {
+          "order": 11,
+          "word": "Denkmal",
+          "article": "das",
+          "plural": "die Denkmäler",
+          "translationUz": "yodgorlik",
+          "partOfSpeech": "noun",
+          "example": "Ein historisches Denkmal.",
+          "exampleUz": "Tarixiy yodgorlik."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "Qachon Berlin devori qulagan?",
+          "options": [
+            "1945",
+            "1989",
+            "2001"
+          ],
+          "answerKey": {
+            "correctAnswer": "1989"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 27,
+      "title": "Rechtssystem",
+      "description": "Huquqiy tizim.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Gesetz",
+          "article": "das",
+          "plural": "die Gesetze",
+          "translationUz": "qonun",
+          "partOfSpeech": "noun",
+          "example": "Ein neues Gesetz.",
+          "exampleUz": "Yangi qonun."
+        },
+        {
+          "order": 2,
+          "word": "Richter",
+          "article": "der",
+          "plural": "die Richter",
+          "translationUz": "sudya",
+          "partOfSpeech": "noun",
+          "example": "Der Richter entscheidet.",
+          "exampleUz": "Sudya qaror qiladi."
+        },
+        {
+          "order": 3,
+          "word": "Anwalt",
+          "article": "der",
+          "plural": "die Anwälte",
+          "translationUz": "advokat",
+          "partOfSpeech": "noun",
+          "example": "Einen Anwalt engagieren.",
+          "exampleUz": "Advokat yollash."
+        },
+        {
+          "order": 4,
+          "word": "Gericht",
+          "article": "das",
+          "plural": "die Gerichte",
+          "translationUz": "sud",
+          "partOfSpeech": "noun",
+          "example": "Vor Gericht erscheinen.",
+          "exampleUz": "Sudda hozir bo‘lish."
+        },
+        {
+          "order": 5,
+          "word": "verurteilen",
+          "translationUz": "sudlamoq",
+          "partOfSpeech": "verb",
+          "example": "Zu zwei Jahren verurteilt.",
+          "exampleUz": "Ikki yilga sudlangan."
+        },
+        {
+          "order": 6,
+          "word": "Strafe",
+          "article": "die",
+          "plural": "die Strafen",
+          "translationUz": "jazo",
+          "partOfSpeech": "noun",
+          "example": "Eine hohe Strafe.",
+          "exampleUz": "Og‘ir jazo."
+        },
+        {
+          "order": 7,
+          "word": "illegal",
+          "translationUz": "noqonuniy",
+          "partOfSpeech": "adjective",
+          "example": "Illegale Aktivitäten.",
+          "exampleUz": "Noqonuniy harakatlar."
+        },
+        {
+          "order": 8,
+          "word": "Zeuge",
+          "article": "der",
+          "plural": "die Zeugen",
+          "translationUz": "guvoh",
+          "partOfSpeech": "noun",
+          "example": "Einen Zeugen vernehmen.",
+          "exampleUz": "Guvohni so'roq qilish."
+        },
+        {
+          "order": 9,
+          "word": "klagen",
+          "translationUz": "da'vo qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Vor Gericht klagen.",
+          "exampleUz": "Sudda da'vo qilish."
+        },
+        {
+          "order": 10,
+          "word": "schuldig",
+          "translationUz": "gunohkor",
+          "partOfSpeech": "adjective",
+          "example": "Für schuldig befunden.",
+          "exampleUz": "Gunohkor deb topilgan."
+        },
+        {
+          "order": 11,
+          "word": "Urteil",
+          "article": "das",
+          "plural": "die Urteile",
+          "translationUz": "hukm",
+          "partOfSpeech": "noun",
+          "example": "Ein mildes Urteil.",
+          "exampleUz": "Yumshoq hukm."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Der ____ entscheidet den Fall.",
+          "options": [
+            "Richter",
+            "Lehrer",
+            "Künstler"
+          ],
+          "answerKey": {
+            "correctAnswer": "Richter"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 28,
+      "title": "Wissenschaftliche Methode",
+      "description": "Ilmiy usul.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Hypothese",
+          "article": "die",
+          "plural": "die Hypothesen",
+          "translationUz": "gipoteza",
+          "partOfSpeech": "noun",
+          "example": "Eine Hypothese testen.",
+          "exampleUz": "Gipotezani sinab ko‘rish."
+        },
+        {
+          "order": 2,
+          "word": "Daten",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "ma'lumotlar",
+          "partOfSpeech": "noun",
+          "example": "Daten sammeln.",
+          "exampleUz": "Ma'lumotlarni to‘plash."
+        },
+        {
+          "order": 3,
+          "word": "analysieren",
+          "translationUz": "tahlil qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Die Daten analysieren.",
+          "exampleUz": "Ma'lumotlarni tahlil qilish."
+        },
+        {
+          "order": 4,
+          "word": "Ergebnis",
+          "article": "das",
+          "plural": "die Ergebnisse",
+          "translationUz": "natija",
+          "partOfSpeech": "noun",
+          "example": "Das Ergebnis veröffentlichen.",
+          "exampleUz": "Natijani e'lon qilish."
+        },
+        {
+          "order": 5,
+          "word": "beobachten",
+          "translationUz": "kuzatmoq",
+          "partOfSpeech": "verb",
+          "example": "Ich beobachte das Phänomen.",
+          "exampleUz": "Men hodisani kuzataman."
+        },
+        {
+          "order": 6,
+          "word": "Schluss",
+          "article": "der",
+          "plural": "die Schlüsse",
+          "translationUz": "xulosa",
+          "partOfSpeech": "noun",
+          "example": "Einen Schluss ziehen.",
+          "exampleUz": "Xulosa chiqarish."
+        },
+        {
+          "order": 7,
+          "word": "objektiv",
+          "translationUz": "ob'ektiv",
+          "partOfSpeech": "adjective",
+          "example": "Objektive Beobachtung.",
+          "exampleUz": "Ob'ektiv kuzatuv."
+        },
+        {
+          "order": 8,
+          "word": "Variable",
+          "article": "die",
+          "plural": "die Variablen",
+          "translationUz": "o'zgaruvchan",
+          "partOfSpeech": "noun",
+          "example": "Eine unabhängige Variable.",
+          "exampleUz": "Mustaqil o'zgaruvchan."
+        },
+        {
+          "order": 9,
+          "word": "messen",
+          "translationUz": "o'lchamoq",
+          "partOfSpeech": "verb",
+          "example": "Die Temperatur messen.",
+          "exampleUz": "Haroratni o'lchash."
+        },
+        {
+          "order": 10,
+          "word": "statistisch",
+          "translationUz": "statistik",
+          "partOfSpeech": "adjective",
+          "example": "Statistisch signifikant.",
+          "exampleUz": "Statistik ahamiyatli."
+        },
+        {
+          "order": 11,
+          "word": "Modell",
+          "article": "das",
+          "plural": "die Modelle",
+          "translationUz": "model",
+          "partOfSpeech": "noun",
+          "example": "Ein mathematisches Modell.",
+          "exampleUz": "Matematik model."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«beobachten» nima?",
+          "options": [
+            "kuzatmoq",
+            "o‘ynamoq",
+            "yemoq"
+          ],
+          "answerKey": {
+            "correctAnswer": "kuzatmoq"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 29,
+      "title": "Interkulturelle Kommunikation",
+      "description": "Madaniyatlararo muloqot.",
+      "words": [
+        {
+          "order": 1,
+          "word": "Kultur",
+          "article": "die",
+          "plural": "die Kulturen",
+          "translationUz": "madaniyat",
+          "partOfSpeech": "noun",
+          "example": "Interkulturelle Kommunikation.",
+          "exampleUz": "Madaniyatlararo muloqot."
+        },
+        {
+          "order": 2,
+          "word": "Missverständnis",
+          "article": "das",
+          "plural": "die Missverständnisse",
+          "translationUz": "noto‘g‘ri tushunish",
+          "partOfSpeech": "noun",
+          "example": "Ein kulturelles Missverständnis.",
+          "exampleUz": "Madaniy noto‘g‘ri tushunish."
+        },
+        {
+          "order": 3,
+          "word": "sich einfühlen",
+          "translationUz": "his qila olmoq",
+          "partOfSpeech": "verb",
+          "example": "Sich in andere einfühlen.",
+          "exampleUz": "Boshqalarning holatini his qila olmoq."
+        },
+        {
+          "order": 4,
+          "word": "tolerant",
+          "translationUz": "bag‘rikeng",
+          "partOfSpeech": "adjective",
+          "example": "Eine tolerante Gesellschaft.",
+          "exampleUz": "Bag‘rikeng jamiyat."
+        },
+        {
+          "order": 5,
+          "word": "Vorurteil",
+          "article": "das",
+          "plural": "die Vorurteile",
+          "translationUz": "oldindan hukm",
+          "partOfSpeech": "noun",
+          "example": "Vorurteile abbauen.",
+          "exampleUz": "Oldindan hukmlarni yo‘q qilish."
+        },
+        {
+          "order": 6,
+          "word": "Dialog",
+          "article": "der",
+          "plural": "die Dialoge",
+          "translationUz": "muloqot",
+          "partOfSpeech": "noun",
+          "example": "Ein offener Dialog.",
+          "exampleUz": "Ochiq muloqot."
+        },
+        {
+          "order": 7,
+          "word": "respektieren",
+          "translationUz": "hurmat qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Andere Kulturen respektieren.",
+          "exampleUz": "Boshqa madaniyatlarni hurmat qilish."
+        },
+        {
+          "order": 8,
+          "word": "Höflichkeit",
+          "article": "die",
+          "plural": "–",
+          "translationUz": "xushmuomalalik",
+          "partOfSpeech": "noun",
+          "example": "Höflichkeit ist wichtig.",
+          "exampleUz": "Xushmuomalalik muhim."
+        },
+        {
+          "order": 9,
+          "word": "übersetzen",
+          "translationUz": "tarjima qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Einen Satz übersetzen.",
+          "exampleUz": "Jumlani tarjima qilish."
+        },
+        {
+          "order": 10,
+          "word": "flexibel",
+          "translationUz": "egiluvchan",
+          "partOfSpeech": "adjective",
+          "example": "Flexibel reagieren.",
+          "exampleUz": "Egiluvchan javob berish."
+        },
+        {
+          "order": 11,
+          "word": "Sitte",
+          "article": "die",
+          "plural": "die Sitten",
+          "translationUz": "urf-odat",
+          "partOfSpeech": "noun",
+          "example": "Lokale Sitten respektieren.",
+          "exampleUz": "Mahalliy urf-odatlarni hurmat qilish."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "fill_blank",
+          "section": "Vocabulary",
+          "question": "Wir müssen ____ abbauen.",
+          "options": [
+            "Vorurteile",
+            "Dialog",
+            "Kultur"
+          ],
+          "answerKey": {
+            "correctAnswer": "Vorurteile"
+          }
+        }
+      ]
+    },
+    {
+      "unitNumber": 30,
+      "title": "Zusammenfassung B1",
+      "description": "B1 ni takrorlash.",
+      "words": [
+        {
+          "order": 1,
+          "word": "beschreiben",
+          "translationUz": "ta'riflamoq",
+          "partOfSpeech": "verb",
+          "example": "Beschreibe deinen Beruf.",
+          "exampleUz": "Kasbingni ta'rifla."
+        },
+        {
+          "order": 2,
+          "word": "argumentieren",
+          "translationUz": "dalillab bermoq",
+          "partOfSpeech": "verb",
+          "example": "Argumentieren und debattieren.",
+          "exampleUz": "Dalillab berish va bahslashish."
+        },
+        {
+          "order": 3,
+          "word": "vergleichen",
+          "translationUz": "taqqoslamoq",
+          "partOfSpeech": "verb",
+          "example": "Zwei Länder vergleichen.",
+          "exampleUz": "Ikki mamlakatni taqqoslash."
+        },
+        {
+          "order": 4,
+          "word": "berichten",
+          "translationUz": "xabar bermoq",
+          "partOfSpeech": "verb",
+          "example": "Über ein Ereignis berichten.",
+          "exampleUz": "Voqea haqida xabar bermoq."
+        },
+        {
+          "order": 5,
+          "word": "zusammenfassen",
+          "translationUz": "umumlashtirmoq",
+          "partOfSpeech": "verb",
+          "example": "Den Text zusammenfassen.",
+          "exampleUz": "Matnni umumlashtirish."
+        },
+        {
+          "order": 6,
+          "word": "empfehlen",
+          "translationUz": "tavsiya qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Ein Buch empfehlen.",
+          "exampleUz": "Kitob tavsiya qilish."
+        },
+        {
+          "order": 7,
+          "word": "erklären",
+          "translationUz": "tushuntirmoq",
+          "partOfSpeech": "verb",
+          "example": "Die Regel erklären.",
+          "exampleUz": "Qoidani tushuntirish."
+        },
+        {
+          "order": 8,
+          "word": "analysieren",
+          "translationUz": "tahlil qilmoq",
+          "partOfSpeech": "verb",
+          "example": "Daten analysieren.",
+          "exampleUz": "Ma'lumotlarni tahlil qilish."
+        },
+        {
+          "order": 9,
+          "word": "formulieren",
+          "translationUz": "shakllantirmoq",
+          "partOfSpeech": "verb",
+          "example": "Eine Frage formulieren.",
+          "exampleUz": "Savolni shakllantirish."
+        },
+        {
+          "order": 10,
+          "word": "widersprechen",
+          "translationUz": "e'tiroz bildirmoq",
+          "partOfSpeech": "verb",
+          "example": "Einer Aussage widersprechen.",
+          "exampleUz": "Bayonotga e'tiroz bildirish."
+        },
+        {
+          "order": 11,
+          "word": "bestätigen",
+          "translationUz": "tasdiqlamoq",
+          "partOfSpeech": "verb",
+          "example": "Einen Termin bestätigen.",
+          "exampleUz": "Vaqtni tasdiqlash."
+        }
+      ],
+      "exercises": [
+        {
+          "order": 1,
+          "type": "multiple_choice",
+          "section": "Vocabulary",
+          "question": "«zusammenfassen» nima?",
+          "options": [
+            "umumlashtirmoq",
+            "to‘xtatmoq",
+            "bo‘shashmoq"
+          ],
+          "answerKey": {
+            "correctAnswer": "umumlashtirmoq"
+          }
+        }
+      ]
+    }
+  ]
+}
