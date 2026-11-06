@@ -1,0 +1,19 @@
+# Nixpacks config for monorepo: build + run only the backend from
+# english-nemis-backend/. The frontend ships as a separate Railway service.
+
+providers = ["node"]
+
+[variables]
+NIXPACKS_NODE_VERSION = "20"
+
+[phases.setup]
+nixPkgs = ["nodejs_20", "npm-9_x"]
+
+[phases.install]
+cmds = ["cd english-nemis-backend && npm ci --omit=dev"]
+
+[phases.build]
+cmds = ["echo 'no build step for backend'"]
+
+[start]
+cmd = "cd english-nemis-backend && node src/server.js"

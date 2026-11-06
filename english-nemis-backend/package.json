@@ -10,17 +10,24 @@
     "seed:vocabulary": "node src/scripts/seed-vocabulary.js",
     "seed:vocabulary:english": "node src/scripts/seed-vocabulary.js --language=english",
     "seed:vocabulary:german": "node src/scripts/seed-vocabulary.js --language=german",
+    "seed:listening": "node src/scripts/seed-listening.js",
+    "seed:listening:upload": "node src/scripts/seed-listening.js --upload",
+    "scrape:voa": "node src/scripts/scrape-voa-listening.js",
     "seed:test-daily-generation": "node src/scripts/test-daily-generation.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
     "nodemon": "^3.1.14"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0",
+    "@aws-sdk/client-s3": "^3.1161.0",
     "@fastify/cookie": "^11.1.3",
     "@fastify/cors": "^11.3.1",
     "@fastify/rate-limit": "^11.2.1",
