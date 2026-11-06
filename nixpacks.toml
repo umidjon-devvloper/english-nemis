@@ -1,19 +1,24 @@
-# Nixpacks config for monorepo: build + run only the backend from
-# english-nemis-backend/. The frontend ships as a separate Railway service.
+# Monorepo: build + run the backend from english-nemis-backend/.
+#
+# We do everything explicitly so Nixpacks doesn't try to run `npm install`
+# at the repo root (where there's no package.json) before our phase.
+#
+# bcrypt needs native compilation → include python + pkg-config + gcc
+# via the stdenv in Nixpacks' setup phase.
 
 providers = ["node"]
 
 [variables]
 NIXPACKS_NODE_VERSION = "20"
+NPM_CONFIG_PRODUCTION = "false"
 
 [phases.setup]
-nixPkgs = ["nodejs_20", "npm-9_x"]
+nixPkgs = ["nodejs_20", "python3", "gcc", "gnumake", "pkg-config"]
 
 [phases.install]
-cmds = ["cd english-nemis-backend && npm ci --omit=dev"]
-
-[phases.build]
-cmds = ["echo 'no build step for backend'"]
+cmds = [
+  "cd english-nemis-backend && npm install --omit=dev --no-audit --no-fund"
+]
 
 [start]
 cmd = "cd english-nemis-backend && node src/server.js"
