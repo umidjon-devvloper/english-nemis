@@ -9,6 +9,7 @@ import tasksRoutes from "./routes/tasks.routes.js";
 import sessionsRoutes from "./routes/sessions.routes.js";
 import practiceRoutes from "./routes/practice.routes.js";
 import vocabularyRoutes from "./routes/vocabulary.routes.js";
+import listeningRoutes from "./routes/listening.routes.js";
 import telegramRoutes from "./routes/telegram.routes.js";
 export async function buildApp() {
   const app = Fastify({
@@ -50,6 +51,9 @@ await app.register(practiceRoutes, {
 });
 await app.register(vocabularyRoutes, {
   prefix: "/api/v1/vocabulary",
+});
+await app.register(listeningRoutes, {
+  prefix: "/api/v1/listening",
 });
 await app.register(telegramRoutes, {
   prefix: "/api/telegram",
