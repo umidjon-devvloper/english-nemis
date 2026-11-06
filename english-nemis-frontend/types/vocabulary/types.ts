@@ -63,6 +63,12 @@ export type BooksResponse = {
   books: VocabularyBook[];
 };
 
+export type UnitsResponse = {
+  success: boolean;
+  book: VocabularyBook;
+  units: VocabularyUnit[];
+};
+
 export type UnitResponse = {
   success: boolean;
   unit: {
